@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Business Inside — Human Capital Investment: Education & Healthcare</title>
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { font-family:'Georgia',serif; background:#f5f5f0; color:#1a1a1a; line-height:1.85; }
+  .container { max-width:700px; margin:0 auto; padding:40px 20px; background:#fff; box-shadow:0 2px 20px rgba(0,0,0,0.06); }
+  .header { border-bottom:2px solid #08A8C8; padding-bottom:20px; display:flex; align-items:center; gap:12px; }
+  .header-logo { background:#08A8C8; color:white; font-family:Arial,sans-serif; font-weight:700; font-size:14px; padding:6px 14px; border-radius:4px; letter-spacing:1px; }
+  .header-title { font-family:Arial,sans-serif; font-size:13px; color:#888; text-transform:uppercase; letter-spacing:2px; }
+  .hero-svg { margin:0 -20px 8px -20px; overflow:hidden; }
+  .hero-svg svg { width:100%; height:320px; display:block; }
+  .meta { font-family:Arial,sans-serif; font-size:12px; color:#999; margin:16px 0 30px; text-transform:uppercase; letter-spacing:1px; }
+  .article-h1 { font-size:30px; line-height:1.35; margin-bottom:14px; font-weight:800; }
+  .subtitle { font-size:18px; color:#555; margin-bottom:30px; font-style:italic; border-bottom:1px solid #eee; padding-bottom:20px; }
+  .stat-block { background:#0d1b2a; color:#fff; padding:24px 28px; margin:30px 0; border-radius:8px; display:flex; flex-wrap:wrap; gap:20px; justify-content:space-around; font-family:Arial,sans-serif; }
+  .stat-item { text-align:center; }
+  .stat-num { font-size:36px; font-weight:800; color:#F8E808; display:block; line-height:1.1; }
+  .stat-label { font-size:13px; color:#aaa; display:block; margin-top:6px; max-width:150px; }
+  h2 { font-size:24px; margin:44px 0 16px; font-weight:700; border-left:4px solid #08A8C8; padding-left:16px; }
+  h3 { font-size:18px; margin:28px 0 12px; font-weight:700; }
+  p { margin-bottom:20px; font-size:17px; }
+  ul { margin:20px 0 20px 30px; list-style:none; }
+  li { margin-bottom:10px; font-size:17px; padding-left:20px; position:relative; }
+  li::before { content:"▸"; color:#08A8C8; position:absolute; left:0; }
+  .article-image { margin:32px -20px; overflow:hidden; }
+  .article-image img { width:100%; max-height:420px; object-fit:cover; display:block; }
+  .article-image .caption { font-family:Arial,sans-serif; font-size:12px; color:#999; text-align:center; padding:8px 20px; }
+  .cta { background:#F8E808; text-align:center; padding:20px; margin:40px 0 20px; border-radius:8px; font-size:16px; font-weight:600; font-family:Arial,sans-serif; }
+  .footer { border-top:1px solid #ddd; padding-top:30px; margin-top:50px; text-align:center; font-size:14px; color:#999; font-family:Arial,sans-serif; }
+</style>
+</head>
+<body>
+<div class="container">
+  <div class="header">
+    <div class="header-logo">ДИ</div>
+    <div class="header-title">Деловой Инсайд</div>
+  </div>
+  <div class="hero-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 320">
+    <defs>
+      <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#0d1b2a"/><stop offset="100%" stop-color="#1b3a5c"/>
+      </linearGradient>
+    </defs>
+    <rect width="700" height="320" fill="url(#bg)"/>
+    <!-- Graduation cap -->
+    <g transform="translate(160, 70)" opacity="0.55">
+      <rect x="0" y="20" width="60" height="8" rx="1" fill="#F8E808"/>
+      <polygon points="30,0 60,25 0,25" fill="#F8E808" opacity="0.7"/>
+      <rect x="55" y="22" width="3" height="15" fill="#F8E808" opacity="0.5"/>
+      <circle cx="57" cy="39" r="3" fill="#F8E808" opacity="0.5"/>
+    </g>
+    <!-- Medical cross -->
+    <g transform="translate(280, 85)" opacity="0.45">
+      <rect x="18" y="0" width="18" height="54" rx="3" fill="#08A8C8"/>
+      <rect x="0" y="18" width="54" height="18" rx="3" fill="#08A8C8"/>
+    </g>
+    <!-- Heartbeat line -->
+    <g transform="translate(360, 120)" opacity="0.4">
+      <polyline points="0,30 20,30 30,10 40,50 50,30 70,30" fill="none" stroke="#F8E808" stroke-width="2.5" stroke-linejoin="round"/>
+      <polyline points="0,50 20,50 30,30 40,70 50,50 70,50" fill="none" stroke="#F8E808" stroke-width="1.2" stroke-linejoin="round" opacity="0.5"/>
+    </g>
+    <!-- Books -->
+    <g transform="translate(500, 90)" opacity="0.35">
+      <rect x="0" y="30" width="70" height="12" rx="1" fill="#08A8C8"/>
+      <rect x="5" y="18" width="60" height="12" rx="1" fill="#F8E808" opacity="0.6"/>
+      <rect x="10" y="6" width="50" height="12" rx="1" fill="#08A8C8" opacity="0.4"/>
+    </g>
+    <!-- Growth bars -->
+    <g transform="translate(140, 190)" opacity="0.5">
+      <rect x="10" y="20" width="25" height="40" rx="2" fill="#08A8C8"/>
+      <rect x="45" y="0" width="25" height="60" rx="2" fill="#F8E808" opacity="0.7"/>
+      <rect x="80" y="10" width="25" height="50" rx="2" fill="#08A8C8" opacity="0.8"/>
+      <!-- Arrow -->
+      <polygon points="115,30 105,25 105,35" fill="#F8E808"/>
+      <line x1="85" y1="30" x2="115" y2="30" stroke="#F8E808" stroke-width="1.5"/>
+    </g>
+    <!-- Globe/dots -->
+    <g transform="translate(450, 220)" opacity="0.2">
+      <circle cx="50" cy="50" r="45" fill="none" stroke="#fff" stroke-width="1"/>
+      <circle cx="50" cy="50" r="30" fill="none" stroke="#fff" stroke-width="0.5"/>
+      <line x1="50" y1="5" x2="50" y2="95" stroke="#fff" stroke-width="0.5"/>
+      <line x1="5" y1="50" x2="95" y2="50" stroke="#fff" stroke-width="0.5"/>
+    </g>
+    <text x="700" y="300" text-anchor="end" font-family="Arial" font-size="11" fill="#ffffff40" letter-spacing="3" dx="-20">ЧЕЛОВЕЧЕСКИЙ КАПИТАЛ</text>
+  </svg></div>
+  <div class="meta">02 July 2026 • Бизнес-аналитика • ~5 мин чтения</div>
+  <h1 class="article-h1">Инвестиции в человеческий капитал: как образование и медицина становятся драйверами экономического роста</h1>
+  <p class="subtitle">Каждый рубль, вложенный в здравоохранение, возвращает до 12 рублей экономической выгоды — а год дополнительного обучения прибавляет 8–10% к доходу человека. Разбираем, почему частный бизнес всё активнее заходит в эти сферы.</p>
+
+  <div class="stat-block">
+    <div class="stat-item"><span class="stat-num">8–10%</span><span class="stat-label">рост дохода за каждый доп. год обучения</span></div>
+    <div class="stat-item"><span class="stat-num">$4–12</span><span class="stat-label">экономической выгоды на $1 вложений в здравоохранение</span></div>
+    <div class="stat-item"><span class="stat-num">5,5%</span><span class="stat-label">ВВП России — расходы на здравоохранение</span></div>
+    <div class="stat-item"><span class="stat-num">121</span><span class="stat-label">центр за 10 лет у одной образовательной франшизы</span></div>
+  </div>
+
+  <h2>Образование: фундамент производительности</h2>
+  <p>Связь между уровнем образования и экономическим ростом подтверждена десятилетиями исследований. Данные Всемирного банка показывают: каждый дополнительный год обучения увеличивает индивидуальный доход на 8–10%. На уровне экономики это трансформируется в прирост ВВП — в странах ОЭСР высокий уровень образования прямо коррелирует с экономическим благополучием.</p>
+  <p>Государство — не единственный игрок на этом поле. Частный бизнес активно встраивается в образовательную экосистему там, где видит устойчивый спрос. Показательный кейс — сеть логопедических центров «Разноцветные цыплята». Запущенная как франшиза, она за 10 лет выросла до 121 центра в 40 городах России. Дети с нарушениями речи получают квалифицированную помощь, а предприниматели — работающую бизнес-модель с понятной социальной составляющей.</p>
+
+  <div class="article-image">
+    <img src="https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=700&fit=crop&q=85" alt="Медицина и технологии">
+    <div class="caption">Цифровые технологии расширяют доступ к медицинским услугам. Фото: Unsplash</div>
+  </div>
+
+  <h2>Медицина: здоровье нации как экономический актив</h2>
+  <p>Здоровье населения напрямую определяет производительность труда и экономическую активность. По оценкам Всемирной организации здравоохранения, каждый доллар инвестиций в здравоохранение приносит $4–12 экономической выгоды — за счёт снижения заболеваемости, увеличения продолжительности трудоспособного периода и сокращения выплат по нетрудоспособности.</p>
+  <p>В развитых странах расходы на здравоохранение достигают 8–12% ВВП. В России показатель скромнее — около 5,5%, но динамика положительная: государство наращивает инвестиции в медицинскую инфраструктуру, закупку оборудования и подготовку кадров. Частный сектор дополняет эту картину — развитие сети частных клиник и телемедицинских сервисов повышает доступность качественной помощи, особенно в регионах.</p>
+
+  <div class="article-image">
+    <img src="https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?w=700&fit=crop&q=85" alt="Врач-специалист">
+    <div class="caption">Качество медицинских кадров — ключевой фактор эффективности здравоохранения. Фото: Unsplash</div>
+  </div>
+
+  <h2>Точка пересечения: где образование встречается с медициной</h2>
+  <p>Граница между этими сферами всё более условна. Ранняя диагностика и коррекция нарушений развития у детей — включая логопедическую помощь — напрямую влияет на их дальнейшие образовательные результаты. Практика «Разноцветных цыплят» подтверждает: работа логопедов в дошкольном возрасте помогает детям легче адаптироваться в школе и социуме, снижая нагрузку на образовательную систему в целом.</p>
+  <p>Инвестиции в медицинское образование дают сопоставимый эффект. По данным Росстата, свыше 50% врачей в России имеют высшую квалификационную категорию — это говорит о серьёзном уровне профессиональной подготовки. Но масштабирование этого результата требует дальнейших вложений в образовательные программы для медперсонала.</p>
+
+  <h2>Почему это окупается: три аргумента для бизнеса</h2>
+  <ul>
+    <li><strong>Экономический рост.</strong> Образование и медицина повышают производительность труда и инновационный потенциал — прямой вклад в рост ВВП.</li>
+    <li><strong>Социальная стабильность.</strong> Здоровое и образованное население меньше зависит от социальной поддержки, снижая бюджетную нагрузку.</li>
+    <li><strong>Бизнес-возможности.</strong> Частные проекты — от логопедических франшиз до телемедицины — показывают: инвестиции в человеческий капитал могут быть коммерчески успешными.</li>
+  </ul>
+  <p>Человеческий капитал — не абстрактная категория из учебников по макроэкономике. Это конкретные рынки, конкретные бизнес-модели и конкретные деньги. Образование и медицина перестают быть исключительно зоной ответственности государства — частный капитал находит здесь работающие ниши и устойчивую доходность.</p>
+
+  <div class="cta">📰 Подписывайтесь на «Деловой Инсайд»</div>
+  <div class="footer"><strong>Деловой Инсайд</strong> — независимый взгляд на бизнес.<br>© 2026. Фото — Unsplash.</div>
+</div>
+</body>
+</html>

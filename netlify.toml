@@ -1,0 +1,18 @@
+[build]
+  publish = "."
+
+[[redirects]]
+  from = "/articles/*"
+  to = "/articles/:splat"
+  status = 200
+
+[[headers]]
+  for = "/rss.xml"
+  [headers.values]
+    Content-Type = "application/rss+xml; charset=utf-8"
+    Cache-Control = "public, max-age=3600"
+
+[[headers]]
+  for = "/articles/*"
+  [headers.values]
+    Cache-Control = "public, max-age=86400"

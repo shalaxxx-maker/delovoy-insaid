@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1b2a"/>
+      <stop offset="100%" stop-color="#1b3a5c"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#08A8C8"/>
+      <stop offset="100%" stop-color="#0690B0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="400" height="400" rx="40" fill="url(#bg)"/>
+
+  <!-- Stylized chart bars -->
+  <rect x="80"  y="220" width="40" height="60" rx="4" fill="url(#accent)" opacity="0.5"/>
+  <rect x="140" y="180" width="40" height="100" rx="4" fill="url(#accent)" opacity="0.7"/>
+  <rect x="200" y="140" width="40" height="140" rx="4" fill="url(#accent)"/>
+  <rect x="260" y="170" width="40" height="110" rx="4" fill="url(#accent)" opacity="0.8"/>
+  <rect x="320" y="200" width="40" height="80" rx="4" fill="url(#accent)" opacity="0.6"/>
+
+  <!-- Trend line -->
+  <polyline points="100,265 160,205 220,165 280,195 340,225"
+            fill="none" stroke="#F8E808" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="220" cy="165" r="6" fill="#F8E808"/>
+
+  <!-- Letter Д -->
+  <text x="200" y="130" text-anchor="middle" font-family="Georgia,serif" font-weight="bold" font-size="90" fill="white">Д</text>
+  <text x="200" y="155" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" fill="#ffffff70" letter-spacing="4">ИНСАЙД</text>
+</svg>

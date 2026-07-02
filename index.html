@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="zen-verification" content="1wWx18gnP7R5cDCkX4fwMHzVSuFyngkAKp5YX3PeZZA8euJ0W40Yus2lbVHHvW61"/>
+<title>Деловой Инсайд — Бизнес-аналитика</title>
+<link rel="alternate" type="application/rss+xml" title="Деловой Инсайд RSS" href="/rss.xml">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    background: #f5f5f0;
+    color: #1a1a1a;
+    line-height: 1.6;
+  }
+  .container {
+    max-width: 680px;
+    margin: 60px auto;
+    padding: 40px;
+    background: #fff;
+    box-shadow: 0 2px 20px rgba(0,0,0,0.06);
+  }
+  h1 {
+    font-size: 28px;
+    margin-bottom: 10px;
+  }
+  h1 span { color: #08A8C8; }
+  .subtitle {
+    color: #888;
+    font-size: 16px;
+    margin-bottom: 30px;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 20px;
+  }
+  .article-list {
+    list-style: none;
+  }
+  .article-list li {
+    padding: 20px 0;
+    border-bottom: 1px solid #eee;
+  }
+  .article-list li:last-child { border-bottom: none; }
+  .article-list a {
+    color: #1a1a1a;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 700;
+    display: block;
+    margin-bottom: 4px;
+  }
+  .article-list a:hover { color: #08A8C8; }
+  .article-list .date {
+    font-size: 13px;
+    color: #999;
+    font-family: Arial, sans-serif;
+  }
+  .footer {
+    margin-top: 40px;
+    text-align: center;
+    font-size: 13px;
+    color: #999;
+    border-top: 1px solid #eee;
+    padding-top: 20px;
+  }
+  .rss-link {
+    display: inline-block;
+    background: #F8E808;
+    color: #1a1a1a;
+    padding: 6px 16px;
+    border-radius: 4px;
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+  }
+</style>
+</head>
+<body>
+<div class="container">
+  <h1><span>Деловой</span> Инсайд</h1>
+  <p class="subtitle">Независимый бизнес-обозреватель. Каждый день — один важный разговор о деньгах, рынках и предпринимательстве.</p>
+
+  <ul class="article-list" id="articles">
+    <li>Загрузка статей...</li>
+  </ul>
+
+  <div class="footer">
+    <a href="/rss.xml" class="rss-link">📡 RSS-лента</a>
+    <p style="margin-top: 12px;">© 2026 Деловой Инсайд</p>
+  </div>
+</div>
+
+<script>
+// Dynamic article list
+fetch('/articles/manifest.json')
+  .then(r => r.json())
+  .then(data => {
+    const list = document.getElementById('articles');
+    list.innerHTML = data.articles.map(a => 
+      `<li><a href="/articles/${a.file}">${a.title}</a><div class="date">${a.date}</div></li>`
+    ).join('');
+  })
+  .catch(() => {
+    document.getElementById('articles').innerHTML = '<li>Статьи появляются ежедневно в 9:00 МСК</li>';
+  });
+</script>
+</body>
+</html>
