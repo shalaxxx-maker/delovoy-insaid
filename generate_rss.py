@@ -10,7 +10,7 @@ from datetime import datetime, timezone
 from html import escape
 from hashlib import md5
 
-SITE_URL = os.environ.get("SITE_URL", "https://delovoy-insaid.netlify.app")
+SITE_URL = os.environ.get("SITE_URL", "https://shalaxxx-maker.github.io/delovoy-insaid")
 ARTICLES_DIR = os.path.join(os.path.dirname(__file__), "articles")
 RSS_FILE = os.path.join(os.path.dirname(__file__), "rss.xml")
 MANIFEST_FILE = os.path.join(ARTICLES_DIR, "manifest.json")
