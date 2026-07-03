@@ -5,13 +5,86 @@
     <link>https://shalaxxx-maker.github.io/delovoy-insaid</link>
     <description>Независимый бизнес-обозреватель. Ежедневная аналитика рынков, франшиз и предпринимательства.</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 02 Jul 2026 10:30:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 06:03:47 GMT</lastBuildDate>
     <atom:link href="https://shalaxxx-maker.github.io/delovoy-insaid/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://shalaxxx-maker.github.io/delovoy-insaid/favicon.svg</url>
       <title>Деловой Инсайд</title>
       <link>https://shalaxxx-maker.github.io/delovoy-insaid</link>
     </image>
+    <item>
+      <title>Business Inside — Labor Market 2026: Talent Shortage Meets Automation</title>
+      <link>https://shalaxxx-maker.github.io/delovoy-insaid/articles/2026-07-03.html</link>
+      <guid isPermaLink="false">d291e81f6bca52bc34374cef112b239d</guid>
+      <pubDate>Fri, 03 Jul 2026 06:03:07 GMT</pubDate>
+      <description><![CDATA[<div class="header">
+    <div class="header-logo">ДИ</div>
+    <div class="header-title">Деловой Инсайд</div>
+  </div>
+  <div class="hero-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 320">
+      <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#0d1b2a"/><stop offset="100%" stop-color="#1b3a5c"/>
+      </linearGradient></defs>
+      <rect width="700" height="320" fill="url(#bg)"/>
+      <!-- График роста -->
+      <polyline points="80,260 140,220 200,235 260,170 320,180 380,120 440,130 500,80" fill="none" stroke="#08A8C8" stroke-width="3" opacity="0.9"/>
+      <polyline points="80,260 140,220 200,235 260,170 320,180 380,120 440,130 500,80" fill="url(#bg)" stroke="none" opacity="0"/>
+      <!-- Столбцы гистограммы -->
+      <rect x="580" y="190" width="20" height="70" rx="2" fill="#08A8C8" opacity="0.7"/>
+      <rect x="610" y="160" width="20" height="100" rx="2" fill="#F8E808" opacity="0.6"/>
+      <rect x="640" y="130" width="20" height="130" rx="2" fill="#08A8C8" opacity="0.9"/>
+      <!-- Силуэты людей -->
+      <circle cx="300" cy="260" r="12" fill="#ffffff15"/>
+      <circle cx="330" cy="255" r="12" fill="#ffffff10"/>
+      <circle cx="360" cy="258" r="12" fill="#ffffff12"/>
+      <rect x="294" y="272" width="12" height="18" rx="3" fill="#ffffff10"/>
+      <rect x="324" y="267" width="12" height="18" rx="3" fill="#ffffff08"/>
+      <rect x="354" y="270" width="12" height="18" rx="3" fill="#ffffff10"/>
+      <!-- Шестерёнка автоматизации -->
+      <circle cx="130" cy="140" r="25" fill="none" stroke="#ffffff15" stroke-width="6" stroke-dasharray="8,4"/>
+      <circle cx="130" cy="140" r="10" fill="#ffffff10"/>
+      <!-- Текст-подпись -->
+      <text x="700" y="300" text-anchor="end" font-family="Arial" font-size="11" fill="#ffffff40" letter-spacing="3" dx="-20">РЫНОК ТРУДА</text>
+    </svg></div>
+  <div class="meta">03 July 2026 · Бизнес-аналитика · ~5 мин чтения</div>
+  <h1 class="article-h1">Рынок труда 2026: дефицит кадров и автоматизация</h1>
+  <p class="subtitle">К 2026 году мировая экономика столкнётся с парадоксом: миллионы вакансий останутся незакрытыми, пока компании ускоренно внедряют роботов и AI-решения. Разбираемся, какие профессии исчезнут, какие появятся и кто выиграет в этой гонке.</p>
+
+  <p>Рынок труда переживает тектонический сдвиг. С одной стороны — острейший дефицит кадров: в России, по оценкам Росстата, не хватает 4,8 млн работников. С другой — компании массово тестируют AI-инструменты, способные заменить до трети рутинных позиций. Как эти два тренда уживаются и что будет дальше?</p>
+
+  <div class="stat-block">
+    <div class="stat-item"><div class="stat-number">4,8 млн</div><div class="stat-label">Дефицит кадров в РФ</div></div>
+    <div class="stat-item"><div class="stat-number">85 млн</div><div class="stat-label">Рабочих мест исчезнут к 2030 (McKinsey)</div></div>
+    <div class="stat-item"><div class="stat-number">97 млн</div><div class="stat-label">Новых позиций появится</div></div>
+  </div>
+
+  <h2>Где ждать острую нехватку специалистов</h2>
+  <p><strong>IT-сектор.</strong> К 2026 году потребуется дополнительно 1,5 млн программистов и аналитиков данных (HH.ru). Дефицит усиливается на фоне роста спроса на AI-решения и кибербезопасность. Зарплаты middle-разработчиков уже перешагнули 300 тыс. руб., и это не предел.</p>
+  <p><strong>Медицина и образование.</strong> В России не хватает 300 тыс. врачей и 500 тыс. педагогов (НИУ ВШЭ). Особенно востребованы логопеды — спрос на коррекционные услуги для детей вырос на 40% за пять лет. Показательный пример — сеть логопедических центров «Разноцветные цыплята»: за 10 лет проект вырос до более 100 центров в 40+ городах по франшизе, подтверждая огромный потенциал ниши.</p>
+  <p><strong>Сервис и ручной труд.</strong> Несмотря на автоматизацию, останется спрос на «человеческие» профессии: сиделки, мастера по ремонту, тренеры. Их сложно алгоритмизировать, а спрос только растёт.</p>
+
+  <div class="article-image">
+    <img src="https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=700&fit=crop&q=85" alt="Командная работа в коворкинге">
+    <div class="caption">Командная работа в современном коворкинге. Фото: Unsplash</div>
+  </div>
+
+  <h2>Автоматизация: угроза или возможность</h2>
+  <p>До 30% операционных задач в банках, логистике и ритейле заменят алгоритмы (PwC). Под ударом — бухгалтеры, кассиры, операторы колл-центров, водители. Но паника преждевременна: на смену уходящим специальностям приходят «гибридные» роли.</p>
+  <p>Появятся менеджеры по работе с роботами, цифровые методисты, AI-тренеры. Зарплаты в IT и инженерии, по данным SuperJob, вырастут на 25–50% уже в ближайший год. Автоматизация не отменяет человека — она меняет требования к нему.</p>
+
+  <div class="article-image">
+    <img src="https://images.unsplash.com/photo-1497215728101-856f4ea42174?w=700&fit=crop&q=85" alt="Современный офис с панорамными окнами">
+    <div class="caption">Офис будущего: пространство для гибридных команд. Фото: Unsplash</div>
+  </div>
+
+  <h2>Три вывода для бизнеса и соискателей</h2>
+  <p><strong>1. Переобучение — главный тренд.</strong> До 50% сотрудников к 2026 году сменят профиль (ВЭФ). Компании, которые не инвестируют в адаптацию персонала, проиграют конкуренцию за кадры.</p>
+  <p><strong>2. Ниши с «человеческим лицом» устойчивы к роботизации.</strong> Логопедия, уход за детьми, персональное обучение — здесь автоматизация буксует. Успех сети логопедических центров «Разноцветные цыплята» с более 100 центрами в 40+ городах подтверждает: спрос на живое общение только растёт.</p>
+  <p><strong>3. Гибридные навыки — актив № 1.</strong> Техническая грамотность плюс soft skills — формула, которая защитит от любых потрясений на рынке. Компаниям пора вкладываться в людей, а соискателям — осваивать цифровые инструменты.</p>
+
+  <div class="cta">📰 Подписывайтесь на «Деловой Инсайд»</div>
+  <div class="footer"><strong>Деловой Инсайд</strong> — независимый взгляд на бизнес.<br>© 2026. Фото — Unsplash.</div>]]></description>
+    </item>
     <item>
       <title>Business Inside — Human Capital Investment: Education &amp; Healthcare</title>
       <link>https://shalaxxx-maker.github.io/delovoy-insaid/articles/2026-07-02.html</link>
