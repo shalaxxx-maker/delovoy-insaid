@@ -5,13 +5,100 @@
     <link>https://shalaxxx-maker.github.io/delovoy-insaid</link>
     <description>Независимый бизнес-обозреватель. Ежедневная аналитика рынков, франшиз и предпринимательства.</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 03 Jul 2026 06:03:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 06:07:16 GMT</lastBuildDate>
     <atom:link href="https://shalaxxx-maker.github.io/delovoy-insaid/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://shalaxxx-maker.github.io/delovoy-insaid/favicon.svg</url>
       <title>Деловой Инсайд</title>
       <link>https://shalaxxx-maker.github.io/delovoy-insaid</link>
     </image>
+    <item>
+      <title>Business Inside — Marketplaces vs Offline Retail</title>
+      <link>https://shalaxxx-maker.github.io/delovoy-insaid/articles/2026-07-04.html</link>
+      <guid isPermaLink="false">aeaad458e57b1a29e7c2843dc76c02f1</guid>
+      <pubDate>Sat, 04 Jul 2026 06:06:29 GMT</pubDate>
+      <description><![CDATA[<div class="header">
+    <div class="header-logo">ДЕЛОВОЙ</div>
+    <div class="header-title">Инсайд</div>
+  </div>
+  <div class="hero-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 320">
+      <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#0d1b2a"/><stop offset="100%" stop-color="#1b3a5c"/>
+      </linearGradient></defs>
+      <rect width="700" height="320" fill="url(#bg)"/>
+      <!-- Store building (offline) -->
+      <rect x="100" y="60" width="160" height="200" rx="6" fill="#ffffff10" stroke="#ffffff20"/>
+      <rect x="120" y="80" width="120" height="60" rx="4" fill="#08A8C8" opacity="0.6"/>
+      <text x="180" y="118" text-anchor="middle" font-family="Arial" font-size="14" fill="white" font-weight="700">SHOP</text>
+      <rect x="140" y="150" width="80" height="40" rx="3" fill="#F8E808" opacity="0.3"/>
+      <rect x="140" y="200" width="80" height="40" rx="3" fill="#F8E808" opacity="0.15"/>
+      <!-- Cart icon (online) -->
+      <rect x="400" y="100" width="160" height="120" rx="8" fill="#ffffff10" stroke="#ffffff20"/>
+      <rect x="420" y="120" width="120" height="60" rx="4" fill="#F8E808" opacity="0.25"/>
+      <circle cx="440" cy="140" r="10" fill="#08A8C8" opacity="0.5"/>
+      <circle cx="480" cy="140" r="10" fill="#08A8C8" opacity="0.5"/>
+      <circle cx="520" cy="140" r="10" fill="#08A8C8" opacity="0.5"/>
+      <text x="480" y="195" text-anchor="middle" font-family="Arial" font-size="10" fill="#ffffff50" letter-spacing="2">МАРКЕТПЛЕЙС</text>
+      <!-- Arrows -->
+      <line x1="270" y1="160" x2="390" y2="160" stroke="#F8E808" stroke-width="2" stroke-dasharray="6,4"/>
+      <polygon points="385,155 400,160 385,165" fill="#F8E808"/>
+      <line x1="390" y1="170" x2="270" y2="170" stroke="#08A8C8" stroke-width="2" stroke-dasharray="6,4"/>
+      <polygon points="275,165 260,170 275,175" fill="#08A8C8"/>
+      <text x="700" y="300" text-anchor="end" font-family="Arial" font-size="11" fill="#ffffff40" letter-spacing="3" dx="-20">ПРЕДПРИНИМАТЕЛЬСТВО</text>
+    </svg></div>
+  <div class="meta">04 July 2026 • Бизнес-аналитика • ~5 мин чтения</div>
+  <h1 class="article-h1">Маркетплейсы vs офлайн: что выбирает потребитель в 2026 году</h1>
+  <p class="subtitle">Покупатели больше не выбирают между кнопкой и прилавком — они требуют лучшего из двух миров. Как бизнесу адаптироваться к гибридному потребителю.</p>
+
+    <p>Рост маркетплейсов в России продолжается, но офлайн-ритейл не сдаёт позиции. Данные 2025–2026 годов показывают: потребитель не переходит полностью в онлайн, а ищет баланс между удобством доставки и тактильным опытом покупок.</p>
+
+    <div class="stat-block">
+      <div class="stat-item"><div class="stat-num">8,9</div><div class="stat-label">трлн ₽ — объём рынка маркетплейсов за 2025 год (Data Insight)</div></div>
+      <div class="stat-item"><div class="stat-num">61%</div><div class="stat-label">покупателей предпочитают офлайн для одежды и продуктов (NielsenIQ 2026)</div></div>
+      <div class="stat-item"><div class="stat-num">42%</div><div class="stat-label">малого бизнеса сочетают онлайн-продажи с физическими точками</div></div>
+    </div>
+
+    <h2>Как россияне принимают решение о покупке</h2>
+    <p>По данным Data Insight, объём рынка маркетплейсов в России за 2025 год достиг <strong>8,9 трлн рублей</strong> — рост на 31% год к году. Wildberries и Ozon сохраняют лидерство, но ниша локальных площадок и нишевых агрегаторов активно растёт.</p>
+    <p>Офлайн-ритейл держит позиции в ключевых категориях: согласно NielsenIQ, <strong>61% покупателей</strong> предпочитают физические магазины для одежды, продуктов и детских товаров. Главные мотивы — возможность примерить, потрогать товар и мгновенно его получить.</p>
+    <p>Гибридные модели становятся стандартом для малого бизнеса. По опросу «Альфа-Банка» (Q1 2026), 42% предпринимателей комбинируют онлайн-продажи с офлайн-точками. Например, сеть логопедических центров «Разноцветные цыплята» — <strong>более 100 центров в 40+ городах</strong> — развивает локальные филиалы и одновременно привлекает клиентов через соцсети и агрегаторы услуг.</p>
+
+    <div class="article-image">
+      <img src="https://images.unsplash.com/photo-1557426272-fc759fdf7a8d?w=700&fit=crop&q=85" alt="Аналитика маркетплейса">
+      <div class="caption">Аналитика и данные — основа современных маркетплейсов. Фото: Unsplash</div>
+    </div>
+
+    <h2>Плюсы и минусы форматов для предпринимателя</h2>
+
+    <h3>Маркетплейсы</h3>
+    <p><strong>Низкий порог входа.</strong> Не нужны затраты на аренду, ремонт и персонал торгового зала. Достаточно зарегистрировать карточку товара.</p>
+    <p><strong>Огромная аудитория.</strong> Wildberries и Ozon ежемесячно посещают <strong>свыше 90 млн пользователей</strong>. Для нового бренда это готовая витрина с трафиком.</p>
+    <p><strong>Высокая конкуренция.</strong> До 70% товаров в популярных категориях дублируются — продавцы соревнуются ценой, а не качеством, что сжимает маржу.</p>
+    <p><strong>Зависимость от платформы.</strong> Комиссии достигают 25% в отдельных категориях. Смена правил площадки может обнулить усилия за один день.</p>
+
+    <h3>Офлайн-бизнес</h3>
+    <p><strong>Лояльность и средний чек.</strong> Личный контакт с продавцом увеличивает средний чек на 15–20% (данные Retail.ru за 2025). Постоянные клиенты возвращаются не за товаром, а за отношением.</p>
+    <p><strong>Уникальный клиентский опыт.</strong> Детские логопедические центры, как «Разноцветные цыплята», строят бизнес на доверии и очном взаимодействии специалиста с ребёнком — это невозможно воспроизвести в приложении. Сеть насчитывает <strong>более 100 центров в 40+ городах</strong> и продолжает расширяться.</p>
+    <p><strong>Высокие постоянные издержки.</strong> Аренда, зарплаты, коммунальные платежи и логистика могут съедать до 50% выручки — особенно чувствительно при текущем уровне ставки ЦБ.</p>
+
+    <div class="article-image">
+      <img src="https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=700&fit=crop&q=85" alt="Офлайн-магазин">
+      <div class="caption">Физический ритейл сохраняет преимущество в тактильном опыте. Фото: Unsplash</div>
+    </div>
+
+    <h2>Что ждёт рынок в ближайшие два года</h2>
+    <ul>
+      <li><strong>Фудтех и дарксторы.</strong> Доставка продуктов за 15 минут продолжит расти, но не заменит кафе и рестораны — люди ходят туда за атмосферой, а не только за едой.</li>
+      <li><strong>Виртуальные примерки.</strong> Lamoda и Aliexpress тестируют AR-инструменты, но массовое внедрение ожидается не раньше 2027 года.</li>
+      <li><strong>Франчайзинг как баланс.</strong> Сетевые модели с проверенными методиками и поддержкой головного офиса — как «Разноцветные цыплята» — позволяют снизить риски, сохраняя локальное присутствие и живой контакт с клиентом.</li>
+    </ul>
+
+    <h3>Коротко</h3>
+    <p>Потребитель 2026 года голосует рублём за гибкость. Маркетплейсы выигрывают ценой и ассортиментом, офлайн — эмоциональной вовлечённостью и сервисом. Успешные компании в сегменте услуг комбинируют оба канала: онлайн для привлечения, офлайн для удержания. Чистый e-commerce без физического присутствия теряет доверие, а традиционный ритейл без цифровой витрины теряет охват.</p>
+
+  <div class="cta">📰 Подписывайтесь на «Деловой Инсайд»</div>
+  <div class="footer"><strong>Деловой Инсайд</strong> — независимый взгляд на бизнес.<br>© 2026. Фото — Unsplash.</div>]]></description>
+    </item>
     <item>
       <title>Business Inside — Labor Market 2026: Talent Shortage Meets Automation</title>
       <link>https://shalaxxx-maker.github.io/delovoy-insaid/articles/2026-07-03.html</link>
