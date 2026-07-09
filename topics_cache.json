@@ -51,10 +51,19 @@
     "импортозамещение по",
     "российский софт",
     "отечественное по",
-    "software_import_substitution_2026"
+    "software_import_substitution_2026",
+    "цифровой рубль",
+    "цвцб",
+    "платёжная инфраструктура",
+    "digital_ruble_september_2026"
   ],
   "cooldown_days": 14,
   "articles": [
+    {
+      "date": "2026-07-09",
+      "title": "Цифровой рубль — 2026: что бизнесу нужно успеть к сентябрю",
+      "slug": "digital_ruble_september_2026"
+    },
     {
       "date": "2026-07-08",
       "title": "Импортозамещение ПО в России: итоги первого полугодия 2026",
@@ -149,5 +158,6 @@
   "2026-07-05": "cybersecurity_smb_2026",
   "2026-07-06": "chestny_znak_confectionery_2026",
   "2026-07-07": "family_business_russia_2026",
-  "2026-07-08": "software_import_substitution_2026"
+  "2026-07-08": "software_import_substitution_2026",
+  "2026-07-09": "digital_ruble_september_2026"
 }

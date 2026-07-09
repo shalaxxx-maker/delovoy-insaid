@@ -1,11 +1,17 @@
 {
   "articles": [
     {
+      "title": "Business Inside — Digital Ruble: What Businesses Need to Know by September 2026",
+      "date": "09 July 2026",
+      "file": "2026-07-09.html",
+      "description": "До массового запуска цифрового рубля осталось меньше двух месяцев. Системно значимые банки и торговые сети с выручкой от 30 млрд рублей обязаны принимать его. Комиссия 0,3% — в 5–8 раз ниже эквайринга."
+    },
+    {
       "title": "Business Inside — Software Import Substitution in Russia: H1 2026 Results",
       "date": "08 July 2026",
       "file": "2026-07-08.html",
       "description": "К июлю 2026 года реестр российского ПО превысил 22 тысячи продуктов. 68% компаний КИИ перешли на отечественное ПО."
     }
   ],
-  "updated": "2026-07-08"
+  "updated": "2026-07-09"
 }
