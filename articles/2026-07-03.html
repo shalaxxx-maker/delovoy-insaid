@@ -11,8 +11,8 @@
   .header { border-bottom:2px solid #08A8C8; padding-bottom:20px; display:flex; align-items:center; gap:12px; }
   .header-logo { background:#08A8C8; color:white; font-family:Arial,sans-serif; font-weight:700; font-size:14px; padding:6px 14px; border-radius:4px; letter-spacing:1px; }
   .header-title { font-family:Arial,sans-serif; font-size:13px; color:#888; text-transform:uppercase; letter-spacing:2px; }
-  .hero-svg { margin:0 -20px 8px -20px; overflow:hidden; }
-  .hero-svg svg { width:100%; height:320px; display:block; }
+  .hero-image { margin:0 -20px 8px -20px; overflow:hidden; }
+  .hero-image img { width:100%; display:block; }
   .meta { font-family:Arial,sans-serif; font-size:12px; color:#999; margin:16px 0 30px; text-transform:uppercase; letter-spacing:1px; }
   .article-h1 { font-size:30px; line-height:1.35; margin-bottom:14px; font-weight:800; }
   .subtitle { font-size:18px; color:#555; margin-bottom:30px; font-style:italic; border-bottom:1px solid #eee; padding-bottom:20px; }
@@ -39,31 +39,9 @@
     <div class="header-logo">ДИ</div>
     <div class="header-title">Деловой Инсайд</div>
   </div>
-  <div class="hero-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 320">
-      <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-        <stop offset="0%" stop-color="#0d1b2a"/><stop offset="100%" stop-color="#1b3a5c"/>
-      </linearGradient></defs>
-      <rect width="700" height="320" fill="url(#bg)"/>
-      <!-- График роста -->
-      <polyline points="80,260 140,220 200,235 260,170 320,180 380,120 440,130 500,80" fill="none" stroke="#08A8C8" stroke-width="3" opacity="0.9"/>
-      <polyline points="80,260 140,220 200,235 260,170 320,180 380,120 440,130 500,80" fill="url(#bg)" stroke="none" opacity="0"/>
-      <!-- Столбцы гистограммы -->
-      <rect x="580" y="190" width="20" height="70" rx="2" fill="#08A8C8" opacity="0.7"/>
-      <rect x="610" y="160" width="20" height="100" rx="2" fill="#F8E808" opacity="0.6"/>
-      <rect x="640" y="130" width="20" height="130" rx="2" fill="#08A8C8" opacity="0.9"/>
-      <!-- Силуэты людей -->
-      <circle cx="300" cy="260" r="12" fill="#ffffff15"/>
-      <circle cx="330" cy="255" r="12" fill="#ffffff10"/>
-      <circle cx="360" cy="258" r="12" fill="#ffffff12"/>
-      <rect x="294" y="272" width="12" height="18" rx="3" fill="#ffffff10"/>
-      <rect x="324" y="267" width="12" height="18" rx="3" fill="#ffffff08"/>
-      <rect x="354" y="270" width="12" height="18" rx="3" fill="#ffffff10"/>
-      <!-- Шестерёнка автоматизации -->
-      <circle cx="130" cy="140" r="25" fill="none" stroke="#ffffff15" stroke-width="6" stroke-dasharray="8,4"/>
-      <circle cx="130" cy="140" r="10" fill="#ffffff10"/>
-      <!-- Текст-подпись -->
-      <text x="700" y="300" text-anchor="end" font-family="Arial" font-size="11" fill="#ffffff40" letter-spacing="3" dx="-20">РЫНОК ТРУДА</text>
-    </svg></div>
+  <figure class="hero-image">
+    <img src="https://raw.githubusercontent.com/shalaxxx-maker/delovoy-insaid/main/article_images/07_labor_market.png" width="1200" alt="Рынок труда">
+  </figure>
   <div class="meta">03 July 2026 · Бизнес-аналитика · ~5 мин чтения</div>
   <h1 class="article-h1">Рынок труда 2026: дефицит кадров и автоматизация</h1>
   <p class="subtitle">К 2026 году мировая экономика столкнётся с парадоксом: миллионы вакансий останутся незакрытыми, пока компании ускоренно внедряют роботов и AI-решения. Разбираемся, какие профессии исчезнут, какие появятся и кто выиграет в этой гонке.</p>

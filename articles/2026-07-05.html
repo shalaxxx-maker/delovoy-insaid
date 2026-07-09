@@ -11,8 +11,8 @@
   .header { border-bottom:2px solid #08A8C8; padding-bottom:20px; display:flex; align-items:center; gap:12px; }
   .header-logo { background:#08A8C8; color:white; font-family:Arial,sans-serif; font-weight:700; font-size:14px; padding:6px 14px; border-radius:4px; letter-spacing:1px; }
   .header-title { font-family:Arial,sans-serif; font-size:13px; color:#888; text-transform:uppercase; letter-spacing:2px; }
-  .hero-svg { margin:0 -20px 8px -20px; overflow:hidden; }
-  .hero-svg svg { width:100%; height:320px; display:block; }
+  .hero-image { margin:0 -20px 8px -20px; overflow:hidden; }
+  .hero-image img { width:100%; display:block; }
   .meta { font-family:Arial,sans-serif; font-size:12px; color:#999; margin:16px 0 30px; text-transform:uppercase; letter-spacing:1px; }
   h1.article-h1 { font-size:30px; line-height:1.35; margin-bottom:14px; font-weight:800; }
   .subtitle { font-size:18px; color:#555; margin-bottom:30px; font-style:italic; border-bottom:1px solid #eee; padding-bottom:20px; }
@@ -39,37 +39,9 @@
     <div class="header-logo">ДЕЛОВОЙ</div>
     <div class="header-title">Инсайд</div>
   </div>
-  <div class="hero-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 320">
-      <defs>
-        <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-          <stop offset="0%" stop-color="#0d1b2a"/><stop offset="100%" stop-color="#1b3a5c"/>
-        </linearGradient>
-      </defs>
-      <rect width="700" height="320" fill="url(#bg)"/>
-      <!-- Lock body -->
-      <rect x="305" y="150" width="90" height="70" rx="8" fill="#08A8C8" opacity="0.7" stroke="#08A8C8" stroke-width="2"/>
-      <!-- Lock shackle -->
-      <path d="M 325 150 L 325 125 A 25 25 0 0 1 375 125 L 375 150" fill="none" stroke="#08A8C8" stroke-width="5" stroke-linecap="round"/>
-      <!-- Keyhole -->
-      <circle cx="350" cy="180" r="8" fill="#F8E808" opacity="0.9"/>
-      <rect x="346" y="185" width="8" height="14" rx="2" fill="#F8E808" opacity="0.9"/>
-      <!-- Circuit traces -->
-      <line x1="100" y1="80" x2="250" y2="80" stroke="#08A8C8" stroke-width="2" opacity="0.5"/>
-      <line x1="250" y1="80" x2="250" y2="130" stroke="#08A8C8" stroke-width="2" opacity="0.5"/>
-      <line x1="250" y1="130" x2="305" y2="130" stroke="#08A8C8" stroke-width="2" opacity="0.5"/>
-      <line x1="395" y1="100" x2="500" y2="100" stroke="#08A8C8" stroke-width="2" opacity="0.5"/>
-      <line x1="500" y1="100" x2="500" y2="150" stroke="#08A8C8" stroke-width="2" opacity="0.5"/>
-      <line x1="500" y1="150" x2="550" y2="150" stroke="#08A8C8" stroke-width="2" opacity="0.5"/>
-      <!-- Data nodes -->
-      <circle cx="100" cy="80" r="5" fill="#F8E808" opacity="0.8"/>
-      <circle cx="500" cy="100" r="5" fill="#F8E808" opacity="0.8"/>
-      <circle cx="250" cy="130" r="4" fill="#F8E808" opacity="0.6"/>
-      <!-- Shield outline -->
-      <path d="M 580 60 L 620 80 L 620 140 Q 600 180 580 190 Q 560 180 540 140 L 540 80 Z" fill="none" stroke="#08A8C8" stroke-width="2" opacity="0.5"/>
-      <text x="570" y="135" text-anchor="middle" font-family="Arial" font-size="24" fill="#F8E808" opacity="0.7" font-weight="700">✓</text>
-      <!-- Category label -->
-      <text x="700" y="300" text-anchor="end" font-family="Arial" font-size="11" fill="#ffffff40" letter-spacing="3" dx="-20">КИБЕРБЕЗОПАСНОСТЬ</text>
-    </svg></div>
+  <figure class="hero-image">
+    <img src="https://raw.githubusercontent.com/shalaxxx-maker/delovoy-insaid/main/article_images/05_cybersecurity.png" width="1200" alt="Кибербезопасность">
+  </figure>
   <div class="meta">05 July 2026 • Технологии и бизнес • ~5 мин чтения</div>
   <h1 class="article-h1">Кибербезопасность для малого бизнеса: 5 шагов, которые стоят дёшево, но спасают миллионы</h1>
   <p class="subtitle">Пока крупные корпорации тратят миллиарды на защиту данных, малый бизнес рискует потерять всё из-за одного клика по фишинговой ссылке. Разбираем, что реально работает без огромных вложений.</p>
