@@ -5,7 +5,7 @@
     <link>https://shalaxxx-maker.github.io/delovoy-insaid</link>
     <description>Независимый бизнес-обозреватель. Ежедневная аналитика рынков, франшиз и предпринимательства.</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 10 Jul 2026 06:09:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 06:05:44 GMT</lastBuildDate>
     <atom:link href="https://shalaxxx-maker.github.io/delovoy-insaid/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://shalaxxx-maker.github.io/delovoy-insaid/favicon.svg</url>
@@ -13,10 +13,133 @@
       <link>https://shalaxxx-maker.github.io/delovoy-insaid</link>
     </image>
     <item>
+      <title>Business Inside — Moscow Exchange Launches WTI Futures and Extends Trading to 17 Hours</title>
+      <link>https://shalaxxx-maker.github.io/delovoy-insaid/articles/2026-07-11.html</link>
+      <guid isPermaLink="false">22d5730710dc9a782075b974841e22ec</guid>
+      <pubDate>Sat, 11 Jul 2026 06:05:25 GMT</pubDate>
+      <description><![CDATA[<!-- Шапка -->
+<div class="header">
+  <div class="header-logo">ДИ</div>
+  <div class="header-text">Деловой Инсайд</div>
+</div>
+
+<!-- Мета -->
+<div class="meta">11 июля 2026 · <span>Финансы</span></div>
+
+<!-- H1 -->
+<h1 class="article-h1">Мосбиржа берёт курс на глобальный рынок: фьючерсы WTI и 17 часов торгов</h1>
+<p class="subtitle">Торги американской нефтью стартуют на Московской бирже уже 14 июля. Параллельно площадка расширяет срочный рынок до рекордных 17 часов в сутки. Разбираем, что стоит за этим двойным манёвром.</p>
+
+<!-- SVG Hero — инфографика финансов -->
+<svg class="hero-svg" viewBox="0 0 780 350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1b2a"/>
+      <stop offset="100%" stop-color="#1b3a5c"/>
+    </linearGradient>
+    <linearGradient id="down" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ff4444"/>
+      <stop offset="100%" stop-color="#ff2222"/>
+    </linearGradient>
+  </defs>
+  <rect width="780" height="350" rx="6" fill="url(#bg)"/>
+
+  <!-- Биржевые колонны -->
+  <rect x="80" y="240" width="32" height="60" rx="3" fill="#F8E808" opacity="0.8"/>
+  <rect x="130" y="210" width="32" height="90" rx="3" fill="#F8E808" opacity="0.7"/>
+  <rect x="180" y="190" width="32" height="110" rx="3" fill="#F8E808" opacity="0.9"/>
+  <rect x="230" y="230" width="32" height="70" rx="3" fill="#F8E808" opacity="0.6"/>
+  <rect x="280" y="220" width="32" height="80" rx="3" fill="#F8E808" opacity="0.8"/>
+
+  <!-- График WTI (свечной) -->
+  <rect x="380" y="150" width="8" height="50" rx="1" fill="#ff4444"/>
+  <rect x="400" y="130" width="8" height="70" rx="1" fill="#ff4444"/>
+  <rect x="420" y="110" width="8" height="90" rx="1" fill="#ff4444"/>
+  <rect x="440" y="140" width="8" height="60" rx="1" fill="#ff4444"/>
+  <rect x="460" y="100" width="8" height="100" rx="1" fill="#ff4444"/>
+  <line x1="380" y1="200" x2="540" y2="200" stroke="#F8E808" stroke-width="1" opacity="0.3" stroke-dasharray="4,4"/>
+
+  <!-- Линия тренда (вниз) -->
+  <polyline points="380,100 420,130 460,100 500,140 540,170" fill="none" stroke="#ff4444" stroke-width="2.5"/>
+  <polygon points="540,170 528,162 528,178" fill="#ff4444"/>
+
+  <!-- Часы (расширение времени) -->
+  <circle cx="660" cy="100" r="36" fill="none" stroke="#F8E808" stroke-width="2.5"/>
+  <circle cx="660" cy="100" r="30" fill="none" stroke="#F8E808" stroke-width="1" opacity="0.5"/>
+  <line x1="660" y1="100" x2="660" y2="78" stroke="#F8E808" stroke-width="3" stroke-linecap="round"/>
+  <line x1="660" y1="100" x2="678" y2="108" stroke="#F8E808" stroke-width="2" stroke-linecap="round"/>
+  <text x="660" y="160" text-anchor="middle" fill="#F8E808" font-size="13" font-family="Georgia, serif">17 часов</text>
+
+  <!-- WTI логотип-текст -->
+  <text x="460" y="260" text-anchor="middle" fill="#F8E808" font-size="28" font-weight="bold" font-family="Georgia, serif" opacity="0.9">WTI</text>
+  <text x="460" y="282" text-anchor="middle" fill="#aaa" font-size="12" font-family="Georgia, serif">West Texas Intermediate</text>
+
+  <!-- Подпись рубрики -->
+  <text x="740" y="330" text-anchor="end" fill="#aaa" font-size="12" font-family="Georgia, serif">ФИНАНСЫ · ИНФРАСТРУКТУРА</text>
+</svg>
+
+<!-- Тело статьи -->
+<div class="article-body">
+
+<h2>Что происходит</h2>
+
+<p>Московская биржа анонсировала два события, которые в сумме меняют ландшафт российского срочного рынка. С 14 июля на площадке стартуют торги расчётным фьючерсом на нефть WTI — главный американский бенчмарк. В тот же день торговый день на срочном рынке расширяется до 17 часов: сессия будет начинаться в 7 утра и закрываться в полночь.</p>
+
+<p>Раньше утренний аукцион открытия запускался в 8:50, а основная сессия шла до 23:50. Теперь к этому добавляются ещё два часа — утренний слот с семи до девяти. Для инвесторов, которые следят за азиатскими рынками и новостным фоном из США, это принципиально.</p>
+
+<div class="highlight">
+<p><b>Почему WTI именно сейчас?</b> Биржа последовательно расширяет линейку глобальных сырьевых инструментов. Brent уже торгуется — теперь настала очередь американского эталона. Это даёт трейдерам возможность хеджировать риски, не уходя на зарубежные площадки.</p>
+</div>
+
+<h2>Цифры, которые важны</h2>
+
+<div class="stat-block">
+  <div class="number">17</div>
+  <div class="label">часов в сутки</div>
+  <p>Новая продолжительность торгов на срочном рынке Мосбиржи — рекордный показатель. Для сравнения: фондовый рынок сейчас торгуется ~14 часов, валютный — ~15.</p>
+</div>
+
+<p>Расширение времени — не косметическая мера. Оно синхронизирует московскую площадку с азиатскими сессиями: утренний слот перекрывает торги в Шанхае и Сингапуре. Для нефтяных контрактов это особенно критично — азиатский спрос формирует до 40% ценовых движений в начале дня.</p>
+
+<div class="article-image">
+  <img src="https://images.unsplash.com/photo-1444944232907-0b9e9ace348c?w=1200" alt="Финансовый рынок, трейдинг" loading="lazy">
+  <div class="caption">Нефтяные фьючерсы — теперь и на Московской бирже. Источник: Unsplash</div>
+</div>
+
+<h2>Что это меняет для инвесторов</h2>
+
+<p>Во-первых, снижается зависимость от зарубежной инфраструктуры. Российский трейдер может открыть позицию по WTI внутри своего контура — без посредников, без CME Group, без дополнительных комиссий за кросс-бордерные переводы.</p>
+
+<p>Во-вторых, появляется арбитраж между Brent и WTI на одной площадке. Разница между двумя сортами — это классическая стратегия спред-трейдинга, и теперь она доступна в рублёвом поле.</p>
+
+<p>В-третьих, хедж для реального бизнеса. Компании, закупающие североамериканскую нефть или работающие с привязанными к WTI контрактами, получают прямой инструмент страховки ценовых рисков.</p>
+
+<div class="article-image">
+  <img src="https://images.unsplash.com/photo-1475924156734-496f6cac6ec1?w=1200" alt="Биржевой трейдинг, деловая аналитика" loading="lazy">
+  <div class="caption">Расширение торговых часов синхронизирует Москву с азиатскими рынками. Источник: Unsplash</div>
+</div>
+
+<h2>Мой взгляд</h2>
+
+<p>Мосбиржа играет вдолгую. WTI — не просто ещё один контракт в линейке. Это сигнал: площадка намерена стать хабом для рублёвых деривативов на глобальные сырьевые активы.</p>
+
+<p>Расширение часов до 17 — логичный следующий шаг. Когда у тебя появляются контракты, чувствительные к азиатским и американским сессиям, утренняя «слепая зона» в два часа становится критическим недостатком. Биржа его убирает.</p>
+
+<p>На мой взгляд, в течение года мы увидим расширение линейки дальше: фьючерсы на природный газ Henry Hub, на медь, на золото с привязкой к COMEX. Логика понятна: создать замкнутую экосистему, в которой российскому инвестору не нужно покидать контур биржи для доступа к мировым сырьевым рынкам.</p>
+
+</div>
+
+<!-- Подвал -->
+<div class="footer">
+  <p><strong>Деловой Инсайд</strong> — независимый бизнес-обозреватель.</p>
+  <p>Подписывайтесь на «Деловой Инсайд», чтобы быть в курсе бизнес-трендов.</p>
+</div>]]></description>
+    </item>
+    <item>
       <title>Business Inside — Russian Franchise Market: Mass Segment Falls, Niche Services Rise</title>
       <link>https://shalaxxx-maker.github.io/delovoy-insaid/articles/2026-07-10.html</link>
       <guid isPermaLink="false">9873f87d7020b5022db336280d0f19c9</guid>
-      <pubDate>Fri, 10 Jul 2026 06:08:37 GMT</pubDate>
+      <pubDate>Fri, 10 Jul 2026 06:09:38 GMT</pubDate>
       <description><![CDATA[<div class="header">
   <div class="header-logo">ДИ</div>
   <div class="header-title">Деловой Инсайд</div>
@@ -82,59 +205,16 @@
       <title>Business Inside — Digital Ruble: What Businesses Need to Know by September 2026</title>
       <link>https://shalaxxx-maker.github.io/delovoy-insaid/articles/2026-07-09.html</link>
       <guid isPermaLink="false">ca2d3363cfad1075ac6520c2cb63a03a</guid>
-      <pubDate>Thu, 09 Jul 2026 06:09:10 GMT</pubDate>
+      <pubDate>Fri, 10 Jul 2026 06:09:38 GMT</pubDate>
       <description><![CDATA[<div class="header">
     <div class="header-logo">ДИ</div>
     <div class="header-title">Деловой Инсайд</div>
   </div>
 
-  <div class="hero-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 320">
-    <defs>
-      <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-        <stop offset="0%" stop-color="#0d1b2a"/><stop offset="100%" stop-color="#1b3a5c"/>
-      </linearGradient>
-    </defs>
-    <rect width="700" height="320" fill="url(#bg)"/>
-    <!-- Цифровая сетка -->
-    <line x1="0" y1="80" x2="700" y2="80" stroke="#ffffff06" stroke-width="0.5"/>
-    <line x1="0" y1="160" x2="700" y2="160" stroke="#ffffff06" stroke-width="0.5"/>
-    <line x1="0" y1="240" x2="700" y2="240" stroke="#ffffff06" stroke-width="0.5"/>
-    <line x1="100" y1="0" x2="100" y2="320" stroke="#ffffff06" stroke-width="0.5"/>
-    <line x1="250" y1="0" x2="250" y2="320" stroke="#ffffff06" stroke-width="0.5"/>
-    <line x1="400" y1="0" x2="400" y2="320" stroke="#ffffff06" stroke-width="0.5"/>
-    <line x1="550" y1="0" x2="550" y2="320" stroke="#ffffff06" stroke-width="0.5"/>
-    <!-- Свечной график -->
-    <line x1="120" y1="140" x2="120" y2="210" stroke="#F8E808" stroke-width="6"/>
-    <line x1="120" y1="155" x2="90" y2="155" stroke="#F8E808" stroke-width="3" opacity="0.5"/>
-    <line x1="120" y1="195" x2="150" y2="195" stroke="#F8E808" stroke-width="3" opacity="0.5"/>
-    <line x1="170" y1="130" x2="170" y2="220" stroke="#F8E808" stroke-width="6"/>
-    <line x1="170" y1="145" x2="140" y2="145" stroke="#F8E808" stroke-width="3" opacity="0.5"/>
-    <line x1="170" y1="205" x2="200" y2="205" stroke="#F8E808" stroke-width="3" opacity="0.5"/>
-    <line x1="220" y1="150" x2="220" y2="190" stroke="#F8E808" stroke-width="6"/>
-    <line x1="220" y1="165" x2="190" y2="165" stroke="#F8E808" stroke-width="3" opacity="0.5"/>
-    <line x1="270" y1="100" x2="270" y2="240" stroke="#08A8C8" stroke-width="6"/>
-    <line x1="270" y1="120" x2="240" y2="120" stroke="#08A8C8" stroke-width="3" opacity="0.5"/>
-    <line x1="270" y1="215" x2="300" y2="215" stroke="#08A8C8" stroke-width="3" opacity="0.5"/>
-    <line x1="320" y1="110" x2="320" y2="230" stroke="#08A8C8" stroke-width="6"/>
-    <line x1="320" y1="130" x2="290" y2="130" stroke="#08A8C8" stroke-width="3" opacity="0.5"/>
-    <line x1="320" y1="210" x2="350" y2="210" stroke="#08A8C8" stroke-width="3" opacity="0.5"/>
-    <line x1="370" y1="90" x2="370" y2="250" stroke="#08A8C8" stroke-width="6"/>
-    <line x1="370" y1="110" x2="340" y2="110" stroke="#08A8C8" stroke-width="3" opacity="0.5"/>
-    <line x1="370" y1="225" x2="400" y2="225" stroke="#08A8C8" stroke-width="3" opacity="0.5"/>
-    <!-- Соединительная линия тренда -->
-    <polyline points="120,155 170,145 220,165 270,120 320,130 370,110" fill="none" stroke="#F8E808" stroke-width="2" opacity="0.4"/>
-    <!-- Знак рубля -->
-    <text x="530" y="175" font-family="Arial" font-size="64" font-weight="700" fill="#F8E808" opacity="0.12">₽</text>
-    <!-- Цифровые узлы -->
-    <circle cx="370" cy="110" r="5" fill="#08A8C8" opacity="0.8"/>
-    <circle cx="370" cy="110" r="14" fill="none" stroke="#08A8C8" stroke-width="1" opacity="0.3"/>
-    <circle cx="270" cy="120" r="4" fill="#F8E808" opacity="0.6"/>
-    <circle cx="500" cy="130" r="3" fill="#08A8C8" opacity="0.5"/>
-    <circle cx="500" cy="200" r="3" fill="#08A8C8" opacity="0.5"/>
-    <circle cx="580" cy="160" r="4" fill="#F8E808" opacity="0.6"/>
-    <!-- Подпись рубрики -->
-    <text x="680" y="300" text-anchor="end" font-family="Arial,sans-serif" font-size="12" fill="#ffffff30">ФИНАНСЫ</text>
-  </svg></div>
+  <figure class="hero-image">
+    <img src="https://raw.githubusercontent.com/shalaxxx-maker/delovoy-insaid/main/article_images/01_digital_ruble.png" width="1200" alt="Цифровой рубль">
+  </figure>
+
 
   <div class="meta">09 июля 2026 · Финансы · ~8 минут</div>
 
@@ -251,48 +331,9 @@
     <div class="header-title">Деловой Инсайд</div>
   </div>
 
-  <div class="hero-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 320">
-    <defs>
-      <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-        <stop offset="0%" stop-color="#0d1b2a"/><stop offset="100%" stop-color="#112240"/>
-      </linearGradient>
-    </defs>
-    <rect width="700" height="320" fill="url(#bg)"/>
-    <!-- Сетка — цифровая инфраструктура -->
-    <line x1="60" y1="80" x2="60" y2="280" stroke="#ffffff08" stroke-width="0.5"/>
-    <line x1="160" y1="60" x2="160" y2="300" stroke="#ffffff08" stroke-width="0.5"/>
-    <line x1="260" y1="40" x2="260" y2="310" stroke="#ffffff08" stroke-width="0.5"/>
-    <line x1="360" y1="30" x2="360" y2="320" stroke="#ffffff08" stroke-width="0.5"/>
-    <line x1="460" y1="40" x2="460" y2="310" stroke="#ffffff08" stroke-width="0.5"/>
-    <line x1="560" y1="60" x2="560" y2="300" stroke="#ffffff08" stroke-width="0.5"/>
-    <line x1="660" y1="80" x2="660" y2="280" stroke="#ffffff08" stroke-width="0.5"/>
-    <line x1="0" y1="100" x2="700" y2="100" stroke="#ffffff08" stroke-width="0.5"/>
-    <line x1="0" y1="160" x2="700" y2="160" stroke="#ffffff08" stroke-width="0.5"/>
-    <line x1="0" y1="220" x2="700" y2="220" stroke="#ffffff08" stroke-width="0.5"/>
-    <line x1="0" y1="280" x2="700" y2="280" stroke="#ffffff08" stroke-width="0.5"/>
-    <!-- Блоки кода -->
-    <rect x="80" y="90" width="100" height="8" rx="2" fill="#08A8C8" opacity="0.35"/>
-    <rect x="190" y="90" width="140" height="8" rx="2" fill="#08A8C8" opacity="0.25"/>
-    <rect x="80" y="108" width="60" height="8" rx="2" fill="#08A8C8" opacity="0.2"/>
-    <rect x="80" y="150" width="200" height="8" rx="2" fill="#F8E808" opacity="0.3"/>
-    <rect x="80" y="168" width="140" height="8" rx="2" fill="#F8E808" opacity="0.2"/>
-    <rect x="80" y="186" width="180" height="8" rx="2" fill="#F8E808" opacity="0.15"/>
-    <!-- Сетевые узлы -->
-    <circle cx="360" cy="160" r="6" fill="#08A8C8" opacity="0.6"/>
-    <circle cx="360" cy="160" r="12" fill="none" stroke="#08A8C8" stroke-width="1" opacity="0.3"/>
-    <circle cx="260" cy="120" r="4" fill="#08A8C8" opacity="0.4"/>
-    <circle cx="460" cy="120" r="4" fill="#08A8C8" opacity="0.4"/>
-    <circle cx="260" cy="220" r="4" fill="#08A8C8" opacity="0.4"/>
-    <circle cx="460" cy="220" r="4" fill="#08A8C8" opacity="0.4"/>
-    <line x1="360" y1="154" x2="260" y2="124" stroke="#08A8C8" stroke-width="1" opacity="0.25"/>
-    <line x1="360" y1="154" x2="460" y2="124" stroke="#08A8C8" stroke-width="1" opacity="0.25"/>
-    <line x1="360" y1="166" x2="260" y2="216" stroke="#08A8C8" stroke-width="1" opacity="0.25"/>
-    <line x1="360" y1="166" x2="460" y2="216" stroke="#08A8C8" stroke-width="1" opacity="0.25"/>
-    <!-- Стрелка роста -->
-    <polyline points="560,180 590,155 620,165 650,135 680,110" fill="none" stroke="#F8E808" stroke-width="2.5" opacity="0.6"/>
-    <circle cx="680" cy="110" r="4" fill="#F8E808" opacity="0.6"/>
-    <text x="700" y="300" text-anchor="end" font-family="Arial" font-size="11" fill="#ffffff40" letter-spacing="3" dx="-20">ИМПОРТОЗАМЕЩЕНИЕ ПО</text>
-  </svg></div>
+  <figure class="hero-image">
+    <img src="https://raw.githubusercontent.com/shalaxxx-maker/delovoy-insaid/main/article_images/02_import_substitution.png" width="1200" alt="Импортозамещение ПО">
+  </figure>
 
   <div class="meta">08 июля 2026 • ИТ и бизнес • ~6 мин чтения</div>
 
@@ -376,38 +417,9 @@
     <div class="header-title">Деловой Инсайд</div>
   </div>
 
-  <div class="hero-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 320">
-    <defs>
-      <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-        <stop offset="0%" stop-color="#0d1b2a"/><stop offset="100%" stop-color="#1b3a5c"/>
-      </linearGradient>
-    </defs>
-    <rect width="700" height="320" fill="url(#bg)"/>
-    <!-- Генеалогическое древо — символ семейного бизнеса -->
-    <!-- Ствол -->
-    <rect x="340" y="180" width="20" height="100" rx="3" fill="#ffffff18"/>
-    <!-- Ветви -->
-    <line x1="350" y1="200" x2="220" y2="120" stroke="#F8E808" stroke-width="3" opacity="0.5"/>
-    <line x1="350" y1="190" x2="480" y2="110" stroke="#F8E808" stroke-width="3" opacity="0.5"/>
-    <line x1="350" y1="210" x2="140" y2="160" stroke="#08A8C8" stroke-width="2" opacity="0.4"/>
-    <line x1="350" y1="200" x2="560" y2="150" stroke="#08A8C8" stroke-width="2" opacity="0.4"/>
-    <!-- Узлы (поколения) -->
-    <circle cx="220" cy="120" r="14" fill="#F8E808" opacity="0.3"/>
-    <circle cx="480" cy="110" r="14" fill="#F8E808" opacity="0.3"/>
-    <circle cx="140" cy="160" r="10" fill="#08A8C8" opacity="0.3"/>
-    <circle cx="560" cy="150" r="10" fill="#08A8C8" opacity="0.3"/>
-    <!-- Корни -->
-    <circle cx="350" cy="180" r="18" fill="#F8E808" opacity="0.15" stroke="#F8E808" stroke-width="2" stroke-opacity="0.4"/>
-    <!-- Здание — бизнес -->
-    <rect x="280" y="250" width="140" height="50" rx="4" fill="#ffffff12" stroke="#ffffff20"/>
-    <rect x="305" y="265" width="20" height="35" rx="2" fill="#08A8C8" opacity="0.3"/>
-    <rect x="340" y="265" width="20" height="35" rx="2" fill="#08A8C8" opacity="0.3"/>
-    <rect x="375" y="265" width="20" height="35" rx="2" fill="#08A8C8" opacity="0.3"/>
-    <!-- График роста справа -->
-    <polyline points="560,220 590,200 620,210 650,180 680,160" fill="none" stroke="#F8E808" stroke-width="2.5" opacity="0.6"/>
-    <circle cx="680" cy="160" r="4" fill="#F8E808" opacity="0.6"/>
-    <text x="700" y="300" text-anchor="end" font-family="Arial" font-size="11" fill="#ffffff40" letter-spacing="3" dx="-20">СЕМЕЙНЫЙ БИЗНЕС</text>
-  </svg></div>
+  <figure class="hero-image">
+    <img src="https://raw.githubusercontent.com/shalaxxx-maker/delovoy-insaid/main/article_images/03_family_business.png" width="1200" alt="Семейный бизнес">
+  </figure>
 
   <div class="meta">07 июля 2026 • Предпринимательство • ~6 мин чтения</div>
 
@@ -490,46 +502,9 @@
     <div class="header-title">Деловой Инсайд</div>
   </div>
 
-  <div class="hero-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 320">
-    <defs>
-      <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-        <stop offset="0%" stop-color="#0d1b2a"/><stop offset="100%" stop-color="#1b3a5c"/>
-      </linearGradient>
-    </defs>
-    <rect width="700" height="320" fill="url(#bg)"/>
-    <!-- Конвейерная лента — символ производства -->
-    <rect x="80" y="160" width="540" height="6" rx="3" fill="#08A8C8" opacity="0.5"/>
-    <circle cx="120" cy="163" r="10" fill="#08A8C8" opacity="0.4"/>
-    <circle cx="260" cy="163" r="10" fill="#08A8C8" opacity="0.4"/>
-    <circle cx="400" cy="163" r="10" fill="#08A8C8" opacity="0.4"/>
-    <circle cx="540" cy="163" r="10" fill="#08A8C8" opacity="0.4"/>
-    <!-- Упаковки-плитки на ленте -->
-    <rect x="180" y="100" width="80" height="56" rx="6" fill="#F8E808" opacity="0.35"/>
-    <rect x="300" y="88" width="80" height="68" rx="6" fill="#F8E808" opacity="0.2"/>
-    <rect x="420" y="95" width="80" height="60" rx="6" fill="#F8E808" opacity="0.3"/>
-    <!-- Штрих-код — символ маркировки -->
-    <g transform="translate(480,60)">
-      <rect x="0" y="0" width="2" height="28" rx="0.5" fill="#ffffff50"/>
-      <rect x="4" y="0" width="4" height="28" rx="0.5" fill="#ffffff50"/>
-      <rect x="10" y="0" width="1" height="28" rx="0.5" fill="#ffffff50"/>
-      <rect x="13" y="0" width="2" height="28" rx="0.5" fill="#ffffff50"/>
-      <rect x="17" y="0" width="3" height="28" rx="0.5" fill="#ffffff50"/>
-      <rect x="22" y="0" width="1" height="28" rx="0.5" fill="#ffffff50"/>
-      <rect x="25" y="0" width="2" height="28" rx="0.5" fill="#ffffff50"/>
-      <rect x="29" y="0" width="4" height="28" rx="0.5" fill="#ffffff50"/>
-      <rect x="35" y="0" width="1" height="28" rx="0.5" fill="#ffffff50"/>
-      <rect x="38" y="0" width="2" height="28" rx="0.5" fill="#ffffff50"/>
-    </g>
-    <!-- QR-код абстрактный -->
-    <g transform="translate(140,60)">
-      <rect x="0" y="0" width="6" height="6" rx="1" fill="#ffffff30"/>
-      <rect x="10" y="0" width="6" height="6" rx="1" fill="#ffffff30"/>
-      <rect x="0" y="10" width="6" height="6" rx="1" fill="#ffffff30"/>
-      <rect x="14" y="0" width="4" height="4" rx="0.5" fill="#ffffff20"/>
-      <rect x="0" y="14" width="4" height="4" rx="0.5" fill="#ffffff20"/>
-    </g>
-    <text x="700" y="300" text-anchor="end" font-family="Arial" font-size="11" fill="#ffffff40" letter-spacing="3" dx="-20">РЕГУЛИРОВАНИЕ</text>
-  </svg></div>
+  <figure class="hero-image">
+    <img src="https://raw.githubusercontent.com/shalaxxx-maker/delovoy-insaid/main/article_images/04_honest_mark.png" width="1200" alt="Честный знак">
+  </figure>
 
   <div class="meta">06 июля 2026 • Бизнес-аналитика • ~5 мин чтения</div>
 
@@ -586,42 +561,14 @@
       <title>Business Inside — Cybersecurity for Small Business 2026</title>
       <link>https://shalaxxx-maker.github.io/delovoy-insaid/articles/2026-07-05.html</link>
       <guid isPermaLink="false">ef28960cc18dcbd08b507da5850a8d34</guid>
-      <pubDate>Sun, 05 Jul 2026 06:05:21 GMT</pubDate>
+      <pubDate>Fri, 10 Jul 2026 06:09:38 GMT</pubDate>
       <description><![CDATA[<div class="header">
     <div class="header-logo">ДЕЛОВОЙ</div>
     <div class="header-title">Инсайд</div>
   </div>
-  <div class="hero-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 320">
-      <defs>
-        <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-          <stop offset="0%" stop-color="#0d1b2a"/><stop offset="100%" stop-color="#1b3a5c"/>
-        </linearGradient>
-      </defs>
-      <rect width="700" height="320" fill="url(#bg)"/>
-      <!-- Lock body -->
-      <rect x="305" y="150" width="90" height="70" rx="8" fill="#08A8C8" opacity="0.7" stroke="#08A8C8" stroke-width="2"/>
-      <!-- Lock shackle -->
-      <path d="M 325 150 L 325 125 A 25 25 0 0 1 375 125 L 375 150" fill="none" stroke="#08A8C8" stroke-width="5" stroke-linecap="round"/>
-      <!-- Keyhole -->
-      <circle cx="350" cy="180" r="8" fill="#F8E808" opacity="0.9"/>
-      <rect x="346" y="185" width="8" height="14" rx="2" fill="#F8E808" opacity="0.9"/>
-      <!-- Circuit traces -->
-      <line x1="100" y1="80" x2="250" y2="80" stroke="#08A8C8" stroke-width="2" opacity="0.5"/>
-      <line x1="250" y1="80" x2="250" y2="130" stroke="#08A8C8" stroke-width="2" opacity="0.5"/>
-      <line x1="250" y1="130" x2="305" y2="130" stroke="#08A8C8" stroke-width="2" opacity="0.5"/>
-      <line x1="395" y1="100" x2="500" y2="100" stroke="#08A8C8" stroke-width="2" opacity="0.5"/>
-      <line x1="500" y1="100" x2="500" y2="150" stroke="#08A8C8" stroke-width="2" opacity="0.5"/>
-      <line x1="500" y1="150" x2="550" y2="150" stroke="#08A8C8" stroke-width="2" opacity="0.5"/>
-      <!-- Data nodes -->
-      <circle cx="100" cy="80" r="5" fill="#F8E808" opacity="0.8"/>
-      <circle cx="500" cy="100" r="5" fill="#F8E808" opacity="0.8"/>
-      <circle cx="250" cy="130" r="4" fill="#F8E808" opacity="0.6"/>
-      <!-- Shield outline -->
-      <path d="M 580 60 L 620 80 L 620 140 Q 600 180 580 190 Q 560 180 540 140 L 540 80 Z" fill="none" stroke="#08A8C8" stroke-width="2" opacity="0.5"/>
-      <text x="570" y="135" text-anchor="middle" font-family="Arial" font-size="24" fill="#F8E808" opacity="0.7" font-weight="700">✓</text>
-      <!-- Category label -->
-      <text x="700" y="300" text-anchor="end" font-family="Arial" font-size="11" fill="#ffffff40" letter-spacing="3" dx="-20">КИБЕРБЕЗОПАСНОСТЬ</text>
-    </svg></div>
+  <figure class="hero-image">
+    <img src="https://raw.githubusercontent.com/shalaxxx-maker/delovoy-insaid/main/article_images/05_cybersecurity.png" width="1200" alt="Кибербезопасность">
+  </figure>
   <div class="meta">05 July 2026 • Технологии и бизнес • ~5 мин чтения</div>
   <h1 class="article-h1">Кибербезопасность для малого бизнеса: 5 шагов, которые стоят дёшево, но спасают миллионы</h1>
   <p class="subtitle">Пока крупные корпорации тратят миллиарды на защиту данных, малый бизнес рискует потерять всё из-за одного клика по фишинговой ссылке. Разбираем, что реально работает без огромных вложений.</p>
@@ -681,22 +628,14 @@
       <title>Business Inside — New Business Models in Russia 2026</title>
       <link>https://shalaxxx-maker.github.io/delovoy-insaid/articles/2026-07-04.html</link>
       <guid isPermaLink="false">6e7f9af3eb21c8755cd18da70068a906</guid>
-      <pubDate>Sat, 04 Jul 2026 09:15:13 GMT</pubDate>
+      <pubDate>Fri, 10 Jul 2026 06:09:38 GMT</pubDate>
       <description><![CDATA[<div class="header">
     <div class="header-logo">ДЕЛОВОЙ</div>
     <div class="header-title">Инсайд</div>
   </div>
-  <div class="hero-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 320">
-      <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-        <stop offset="0%" stop-color="#0d1b2a"/><stop offset="100%" stop-color="#1b3a5c"/>
-      </linearGradient></defs>
-      <rect width="700" height="320" fill="url(#bg)"/>
-      <rect x="120" y="100" width="200" height="160" rx="6" fill="#ffffff10" stroke="#ffffff20"/>
-      <rect x="144" y="124" width="40" height="24" rx="3" fill="#08A8C8" opacity="0.6"/>
-      <rect x="192" y="124" width="40" height="24" rx="3" fill="#F8E808" opacity="0.4"/>
-      <rect x="360" y="60" width="200" height="80" rx="6" fill="#ffffff10" stroke="#ffffff20"/>
-      <text x="700" y="300" text-anchor="end" font-family="Arial" font-size="11" fill="#ffffff40" letter-spacing="3" dx="-20">ПРЕДПРИНИМАТЕЛЬСТВО</text>
-    </svg></div>
+  <figure class="hero-image">
+    <img src="https://raw.githubusercontent.com/shalaxxx-maker/delovoy-insaid/main/article_images/06_business_models.png" width="1200" alt="Бизнес-модели">
+  </figure>
   <div class="meta">04 July 2026 • Бизнес-аналитика • ~5 мин чтения</div>
   <h2 class="article-h1">Новые бизнес-модели в России 2026: тренды и перспективы</h2>
     <p>Российский бизнес в 2026 году продолжает адаптироваться к новым экономическим реалиям, технологическим прорывам и меняющимся запросам потребителей. На фоне глобальной цифровизации и растущего интереса к социально ориентированным проектам появляются уникальные бизнес-модели, которые становятся драйверами развития рынка. Рассмотрим ключевые тренды и примеры успешных кейсов.</p>
@@ -726,36 +665,14 @@
       <title>Business Inside — Labor Market 2026: Talent Shortage Meets Automation</title>
       <link>https://shalaxxx-maker.github.io/delovoy-insaid/articles/2026-07-03.html</link>
       <guid isPermaLink="false">d291e81f6bca52bc34374cef112b239d</guid>
-      <pubDate>Sat, 04 Jul 2026 09:15:13 GMT</pubDate>
+      <pubDate>Fri, 10 Jul 2026 06:09:38 GMT</pubDate>
       <description><![CDATA[<div class="header">
     <div class="header-logo">ДИ</div>
     <div class="header-title">Деловой Инсайд</div>
   </div>
-  <div class="hero-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 320">
-      <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-        <stop offset="0%" stop-color="#0d1b2a"/><stop offset="100%" stop-color="#1b3a5c"/>
-      </linearGradient></defs>
-      <rect width="700" height="320" fill="url(#bg)"/>
-      <!-- График роста -->
-      <polyline points="80,260 140,220 200,235 260,170 320,180 380,120 440,130 500,80" fill="none" stroke="#08A8C8" stroke-width="3" opacity="0.9"/>
-      <polyline points="80,260 140,220 200,235 260,170 320,180 380,120 440,130 500,80" fill="url(#bg)" stroke="none" opacity="0"/>
-      <!-- Столбцы гистограммы -->
-      <rect x="580" y="190" width="20" height="70" rx="2" fill="#08A8C8" opacity="0.7"/>
-      <rect x="610" y="160" width="20" height="100" rx="2" fill="#F8E808" opacity="0.6"/>
-      <rect x="640" y="130" width="20" height="130" rx="2" fill="#08A8C8" opacity="0.9"/>
-      <!-- Силуэты людей -->
-      <circle cx="300" cy="260" r="12" fill="#ffffff15"/>
-      <circle cx="330" cy="255" r="12" fill="#ffffff10"/>
-      <circle cx="360" cy="258" r="12" fill="#ffffff12"/>
-      <rect x="294" y="272" width="12" height="18" rx="3" fill="#ffffff10"/>
-      <rect x="324" y="267" width="12" height="18" rx="3" fill="#ffffff08"/>
-      <rect x="354" y="270" width="12" height="18" rx="3" fill="#ffffff10"/>
-      <!-- Шестерёнка автоматизации -->
-      <circle cx="130" cy="140" r="25" fill="none" stroke="#ffffff15" stroke-width="6" stroke-dasharray="8,4"/>
-      <circle cx="130" cy="140" r="10" fill="#ffffff10"/>
-      <!-- Текст-подпись -->
-      <text x="700" y="300" text-anchor="end" font-family="Arial" font-size="11" fill="#ffffff40" letter-spacing="3" dx="-20">РЫНОК ТРУДА</text>
-    </svg></div>
+  <figure class="hero-image">
+    <img src="https://raw.githubusercontent.com/shalaxxx-maker/delovoy-insaid/main/article_images/07_labor_market.png" width="1200" alt="Рынок труда">
+  </figure>
   <div class="meta">03 July 2026 · Бизнес-аналитика · ~5 мин чтения</div>
   <h1 class="article-h1">Рынок труда 2026: дефицит кадров и автоматизация</h1>
   <p class="subtitle">К 2026 году мировая экономика столкнётся с парадоксом: миллионы вакансий останутся незакрытыми, пока компании ускоренно внедряют роботов и AI-решения. Разбираемся, какие профессии исчезнут, какие появятся и кто выиграет в этой гонке.</p>
@@ -799,59 +716,14 @@
       <title>Business Inside — Human Capital Investment: Education &amp; Healthcare</title>
       <link>https://shalaxxx-maker.github.io/delovoy-insaid/articles/2026-07-02.html</link>
       <guid isPermaLink="false">539ca117968947a14aaecc1dd892f118</guid>
-      <pubDate>Sat, 04 Jul 2026 09:15:13 GMT</pubDate>
+      <pubDate>Fri, 10 Jul 2026 06:09:38 GMT</pubDate>
       <description><![CDATA[<div class="header">
     <div class="header-logo">ДИ</div>
     <div class="header-title">Деловой Инсайд</div>
   </div>
-  <div class="hero-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 320">
-    <defs>
-      <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-        <stop offset="0%" stop-color="#0d1b2a"/><stop offset="100%" stop-color="#1b3a5c"/>
-      </linearGradient>
-    </defs>
-    <rect width="700" height="320" fill="url(#bg)"/>
-    <!-- Graduation cap -->
-    <g transform="translate(160, 70)" opacity="0.55">
-      <rect x="0" y="20" width="60" height="8" rx="1" fill="#F8E808"/>
-      <polygon points="30,0 60,25 0,25" fill="#F8E808" opacity="0.7"/>
-      <rect x="55" y="22" width="3" height="15" fill="#F8E808" opacity="0.5"/>
-      <circle cx="57" cy="39" r="3" fill="#F8E808" opacity="0.5"/>
-    </g>
-    <!-- Medical cross -->
-    <g transform="translate(280, 85)" opacity="0.45">
-      <rect x="18" y="0" width="18" height="54" rx="3" fill="#08A8C8"/>
-      <rect x="0" y="18" width="54" height="18" rx="3" fill="#08A8C8"/>
-    </g>
-    <!-- Heartbeat line -->
-    <g transform="translate(360, 120)" opacity="0.4">
-      <polyline points="0,30 20,30 30,10 40,50 50,30 70,30" fill="none" stroke="#F8E808" stroke-width="2.5" stroke-linejoin="round"/>
-      <polyline points="0,50 20,50 30,30 40,70 50,50 70,50" fill="none" stroke="#F8E808" stroke-width="1.2" stroke-linejoin="round" opacity="0.5"/>
-    </g>
-    <!-- Books -->
-    <g transform="translate(500, 90)" opacity="0.35">
-      <rect x="0" y="30" width="70" height="12" rx="1" fill="#08A8C8"/>
-      <rect x="5" y="18" width="60" height="12" rx="1" fill="#F8E808" opacity="0.6"/>
-      <rect x="10" y="6" width="50" height="12" rx="1" fill="#08A8C8" opacity="0.4"/>
-    </g>
-    <!-- Growth bars -->
-    <g transform="translate(140, 190)" opacity="0.5">
-      <rect x="10" y="20" width="25" height="40" rx="2" fill="#08A8C8"/>
-      <rect x="45" y="0" width="25" height="60" rx="2" fill="#F8E808" opacity="0.7"/>
-      <rect x="80" y="10" width="25" height="50" rx="2" fill="#08A8C8" opacity="0.8"/>
-      <!-- Arrow -->
-      <polygon points="115,30 105,25 105,35" fill="#F8E808"/>
-      <line x1="85" y1="30" x2="115" y2="30" stroke="#F8E808" stroke-width="1.5"/>
-    </g>
-    <!-- Globe/dots -->
-    <g transform="translate(450, 220)" opacity="0.2">
-      <circle cx="50" cy="50" r="45" fill="none" stroke="#fff" stroke-width="1"/>
-      <circle cx="50" cy="50" r="30" fill="none" stroke="#fff" stroke-width="0.5"/>
-      <line x1="50" y1="5" x2="50" y2="95" stroke="#fff" stroke-width="0.5"/>
-      <line x1="5" y1="50" x2="95" y2="50" stroke="#fff" stroke-width="0.5"/>
-    </g>
-    <text x="700" y="300" text-anchor="end" font-family="Arial" font-size="11" fill="#ffffff40" letter-spacing="3" dx="-20">ЧЕЛОВЕЧЕСКИЙ КАПИТАЛ</text>
-  </svg></div>
+  <figure class="hero-image">
+    <img src="https://raw.githubusercontent.com/shalaxxx-maker/delovoy-insaid/main/article_images/08_human_capital.png" width="1200" alt="Человеческий капитал">
+  </figure>
   <div class="meta">02 July 2026 • Бизнес-аналитика • ~5 мин чтения</div>
   <h1 class="article-h1">Инвестиции в человеческий капитал: как образование и медицина становятся драйверами экономического роста</h1>
   <p class="subtitle">Каждый рубль, вложенный в здравоохранение, возвращает до 12 рублей экономической выгоды — а год дополнительного обучения прибавляет 8–10% к доходу человека. Разбираем, почему частный бизнес всё активнее заходит в эти сферы.</p>
@@ -900,37 +772,14 @@
       <title>Business Inside — Regional Entrepreneurship in Russia: Growth and Challenges</title>
       <link>https://shalaxxx-maker.github.io/delovoy-insaid/articles/2026-07-01.html</link>
       <guid isPermaLink="false">1d00dc4bc9a78ebbc4961c75dc066de0</guid>
-      <pubDate>Sat, 04 Jul 2026 09:15:13 GMT</pubDate>
+      <pubDate>Fri, 10 Jul 2026 06:09:38 GMT</pubDate>
       <description><![CDATA[<div class="header">
     <div class="header-logo">ДИ</div>
     <div class="header-title">Деловой Инсайд</div>
   </div>
-  <div class="hero-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 320">
-    <defs>
-      <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-        <stop offset="0%" stop-color="#0d1b2a"/><stop offset="100%" stop-color="#1b3a5c"/>
-      </linearGradient>
-    </defs>
-    <rect width="700" height="320" fill="url(#bg)"/>
-    <!-- Карта России (упрощённый силуэт) -->
-    <path d="M200,60 L220,50 L260,48 L300,52 L340,48 L380,54 L420,50 L460,56 L500,52 L540,58 L560,50 L580,60 L570,80 L560,100 L550,120 L540,140 L530,160 L520,180 L510,200 L500,220 L490,240 L460,250 L430,260 L400,270 L370,280 L340,290 L310,295 L280,290 L250,280 L220,270 L200,260 L180,240 L170,220 L160,200 L150,170 L145,140 L150,110 L165,85 Z" fill="#ffffff08" stroke="#ffffff15" stroke-width="1"/>
-    <!-- Точки роста: региональные центры -->
-    <circle cx="220" cy="120" r="4" fill="#F8E808" opacity="0.8"><animate attributeName="r" values="3;5;3" dur="2s" repeatCount="indefinite"/></circle>
-    <circle cx="340" cy="105" r="4" fill="#F8E808" opacity="0.7"><animate attributeName="r" values="3;5;3" dur="2.3s" repeatCount="indefinite"/></circle>
-    <circle cx="420" cy="130" r="4" fill="#F8E808" opacity="0.9"><animate attributeName="r" values="3;5;3" dur="1.8s" repeatCount="indefinite"/></circle>
-    <circle cx="300" cy="150" r="3.5" fill="#F8E808" opacity="0.6"><animate attributeName="r" values="2.5;4.5;2.5" dur="2.7s" repeatCount="indefinite"/></circle>
-    <circle cx="380" cy="170" r="3.5" fill="#F8E808" opacity="0.7"><animate attributeName="r" values="2.5;4.5;2.5" dur="2.1s" repeatCount="indefinite"/></circle>
-    <circle cx="260" cy="180" r="3" fill="#F8E808" opacity="0.6"><animate attributeName="r" values="2;4;2" dur="2.5s" repeatCount="indefinite"/></circle>
-    <circle cx="480" cy="145" r="3" fill="#F8E808" opacity="0.5"><animate attributeName="r" values="2;4;2" dur="3s" repeatCount="indefinite"/></circle>
-    <!-- Столбцы роста (справа) -->
-    <rect x="560" y="120" width="40" height="100" rx="3" fill="#08A8C8" opacity="0.5"/>
-    <rect x="560" y="155" width="40" height="65" rx="3" fill="#08A8C8" opacity="0.4"><animate attributeName="height" values="65;100;65" dur="1.5s" repeatCount="indefinite"/></rect>
-    <rect x="610" y="100" width="40" height="120" rx="3" fill="#08A8C8" opacity="0.6"/>
-    <rect x="610" y="135" width="40" height="85" rx="3" fill="#08A8C8" opacity="0.5"><animate attributeName="height" values="85;120;85" dur="1.8s" repeatCount="indefinite"/></rect>
-    <rect x="660" y="80" width="30" height="140" rx="3" fill="#F8E808" opacity="0.4"/>
-    <rect x="660" y="115" width="30" height="105" rx="3" fill="#F8E808" opacity="0.3"><animate attributeName="height" values="105;140;105" dur="2s" repeatCount="indefinite"/></rect>
-    <text x="700" y="300" text-anchor="end" font-family="Arial" font-size="11" fill="#ffffff40" letter-spacing="3" dx="-20">ПРЕДПРИНИМАТЕЛЬСТВО</text>
-    </svg></div>
+  <figure class="hero-image">
+    <img src="https://raw.githubusercontent.com/shalaxxx-maker/delovoy-insaid/main/article_images/09_regional_business.png" width="1200" alt="Региональное предпринимательство">
+  </figure>
   <div class="meta">01 Июля 2026 • Аналитика • ~5 мин чтения</div>
   <h1 class="article-h1">Предпринимательство в регионах: почему малый бизнес растёт вопреки дорогим деньгам</h1>
   <p class="subtitle">6,91 млн субъектов МСП, 15 млн занятых — малый бизнес в России не вымирает, а меняет структуру. Регионы становятся точками роста нишевых проектов.</p>
@@ -990,41 +839,9 @@
     <div class="header-title">Инсайд</div>
   </div>
 
-  <div class="hero-svg">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 320">
-      <defs>
-        <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-          <stop offset="0%" stop-color="#0d1b2a"/><stop offset="100%" stop-color="#1b3a5c"/>
-        </linearGradient>
-        <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
-          <stop offset="0%" stop-color="#F8E808"/><stop offset="100%" stop-color="#c8b800"/>
-        </linearGradient>
-      </defs>
-      <rect width="700" height="320" fill="url(#bg)"/>
-      <!-- Franchise network map: circles connected by lines -->
-      <circle cx="120" cy="140" r="8" fill="#08A8C8" opacity="0.8"/>
-      <circle cx="230" cy="100" r="5" fill="#08A8C8" opacity="0.5"/>
-      <circle cx="350" cy="80" r="10" fill="#F8E808" opacity="0.7"/>
-      <circle cx="480" cy="130" r="6" fill="#08A8C8" opacity="0.5"/>
-      <circle cx="580" cy="95" r="7" fill="#08A8C8" opacity="0.6"/>
-      <circle cx="300" cy="180" r="5" fill="#08A8C8" opacity="0.4"/>
-      <circle cx="450" cy="190" r="4" fill="#08A8C8" opacity="0.4"/>
-      <!-- Connecting lines -->
-      <line x1="120" y1="140" x2="230" y2="100" stroke="#ffffff15" stroke-width="1"/>
-      <line x1="230" y1="100" x2="350" y2="80" stroke="#ffffff15" stroke-width="1"/>
-      <line x1="350" y1="80" x2="480" y2="130" stroke="#ffffff15" stroke-width="1"/>
-      <line x1="480" y1="130" x2="580" y2="95" stroke="#ffffff15" stroke-width="1"/>
-      <line x1="350" y1="80" x2="300" y2="180" stroke="#ffffff10" stroke-width="1"/>
-      <line x1="480" y1="130" x2="450" y2="190" stroke="#ffffff10" stroke-width="1"/>
-      <!-- Growth bar chart arrows -->
-      <rect x="130" y="240" width="30" height="60" rx="3" fill="#08A8C8" opacity="0.3"/>
-      <rect x="190" y="220" width="30" height="80" rx="3" fill="#08A8C8" opacity="0.5"/>
-      <rect x="250" y="190" width="30" height="110" rx="3" fill="#F8E808" opacity="0.4"/>
-      <rect x="310" y="210" width="30" height="90" rx="3" fill="#08A8C8" opacity="0.5"/>
-      <rect x="370" y="180" width="30" height="120" rx="3" fill="#F8E808" opacity="0.5"/>
-      <text x="700" y="300" text-anchor="end" font-family="Arial" font-size="11" fill="#ffffff40" letter-spacing="3" dx="-20">ФРАНЧАЙЗИНГ</text>
-    </svg>
-  </div>
+  <figure class="hero-image">
+    <img src="https://raw.githubusercontent.com/shalaxxx-maker/delovoy-insaid/main/article_images/10_franchising.png" width="1200" alt="Франшизы в России">
+  </figure>
 
   <div class="meta">30 июня 2026 • Бизнес-аналитика • ~5 мин чтения</div>
 
