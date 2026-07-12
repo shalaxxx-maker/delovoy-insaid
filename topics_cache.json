@@ -65,7 +65,12 @@
     "нефтяные деривативы",
     "срочный рынок",
     "расширение торгов",
-    "сырьевые контракты"
+    "сырьевые контракты",
+    "готовая еда",
+    "доставка рационов",
+    "рынок питания",
+    "foodtech",
+    "ready meals"
   ],
   "cooldown_days": 14,
   "articles": [
@@ -181,5 +186,6 @@
   "2026-07-08": "software_import_substitution_2026",
   "2026-07-09": "digital_ruble_september_2026",
   "2026-07-10": "franchise_market_transformation_2026",
-  "2026-07-11": "wti_futures_moex_2026"
+  "2026-07-11": "wti_futures_moex_2026",
+  "2026-07-12": "ready_meals_market_2026"
 }
