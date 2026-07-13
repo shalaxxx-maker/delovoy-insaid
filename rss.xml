@@ -5,7 +5,7 @@
     <link>https://shalaxxx-maker.github.io/delovoy-insaid</link>
     <description>Независимый бизнес-обозреватель. Ежедневная аналитика рынков, франшиз и предпринимательства.</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 13 Jul 2026 06:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 06:39:29 GMT</lastBuildDate>
     <atom:link href="https://shalaxxx-maker.github.io/delovoy-insaid/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://shalaxxx-maker.github.io/delovoy-insaid/favicon.svg</url>
@@ -16,7 +16,7 @@
       <title>Business Inside — Russian AI Platform Market Hits 3 Billion Rubles in One Year</title>
       <link>https://shalaxxx-maker.github.io/delovoy-insaid/articles/2026-07-13.html</link>
       <guid isPermaLink="false">6adf871d883c00008fc2d5eefd2bcfe9</guid>
-      <pubDate>Mon, 13 Jul 2026 06:10:32 GMT</pubDate>
+      <pubDate>Mon, 13 Jul 2026 06:39:12 GMT</pubDate>
       <description><![CDATA[<div class="header">
   <div class="header-logo">ДИ</div>
   <div class="header-name">Деловой Инсайд</div>
@@ -31,51 +31,10 @@
   <figcaption>Корпоративный доступ к ИИ-моделям стал отдельной индустрией. Фото: Unsplash</figcaption>
 </figure>
 
-<svg class="hero-svg" viewBox="0 0 780 300" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0a0a1a"/>
-      <stop offset="100%" stop-color="#1a1a3e"/>
-    </linearGradient>
-    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#08A8C8"/>
-      <stop offset="100%" stop-color="#00ffcc"/>
-    </linearGradient>
-  </defs>
-  <rect width="780" height="300" fill="url(#bg)" rx="10"/>
-  <!-- Neural network nodes -->
-  <circle cx="120" cy="150" r="6" fill="#08A8C8" opacity="0.9"/>
-  <circle cx="200" cy="100" r="6" fill="#00ffcc" opacity="0.9"/>
-  <circle cx="200" cy="200" r="6" fill="#08A8C8" opacity="0.9"/>
-  <circle cx="300" cy="140" r="6" fill="#00ffcc" opacity="0.9"/>
-  <circle cx="300" cy="220" r="6" fill="#08A8C8" opacity="0.9"/>
-  <circle cx="400" cy="100" r="6" fill="#00ffcc" opacity="0.9"/>
-  <circle cx="400" cy="190" r="6" fill="#08A8C8" opacity="0.9"/>
-  <circle cx="500" cy="130" r="6" fill="#00ffcc" opacity="0.9"/>
-  <circle cx="500" cy="210" r="6" fill="#08A8C8" opacity="0.9"/>
-  <circle cx="580" cy="160" r="8" fill="#F8E808" opacity="0.9"/>
-  <circle cx="660" cy="140" r="8" fill="#F8E808" opacity="0.9"/>
-  <!-- Connections -->
-  <line x1="120" y1="150" x2="200" y2="100" stroke="#08A8C8" stroke-width="1.5" opacity="0.4"/>
-  <line x1="120" y1="150" x2="200" y2="200" stroke="#08A8C8" stroke-width="1.5" opacity="0.4"/>
-  <line x1="200" y1="100" x2="300" y2="140" stroke="#00ffcc" stroke-width="1.5" opacity="0.4"/>
-  <line x1="200" y1="200" x2="300" y2="220" stroke="#08A8C8" stroke-width="1.5" opacity="0.4"/>
-  <line x1="300" y1="140" x2="400" y2="100" stroke="#00ffcc" stroke-width="1.5" opacity="0.4"/>
-  <line x1="300" y1="220" x2="400" y2="190" stroke="#08A8C8" stroke-width="1.5" opacity="0.4"/>
-  <line x1="400" y1="100" x2="500" y2="130" stroke="#00ffcc" stroke-width="1.5" opacity="0.4"/>
-  <line x1="400" y1="190" x2="500" y2="210" stroke="#08A8C8" stroke-width="1.5" opacity="0.4"/>
-  <line x1="500" y1="130" x2="580" y2="160" stroke="#F8E808" stroke-width="2" opacity="0.5"/>
-  <line x1="500" y1="210" x2="660" y2="140" stroke="#F8E808" stroke-width="2" opacity="0.5"/>
-  <line x1="580" y1="160" x2="660" y2="140" stroke="#F8E808" stroke-width="2" opacity="0.5"/>
-  <!-- Growth bars -->
-  <rect x="80" y="250" width="50" height="20" fill="#08A8C8" rx="3" opacity="0.6"/>
-  <rect x="150" y="240" width="50" height="30" fill="#08A8C8" rx="3" opacity="0.7"/>
-  <rect x="220" y="225" width="50" height="45" fill="#00ffcc" rx="3" opacity="0.7"/>
-  <rect x="290" y="210" width="50" height="60" fill="#00ffcc" rx="3" opacity="0.8"/>
-  <rect x="360" y="195" width="50" height="75" fill="#F8E808" rx="3" opacity="0.9"/>
-  <text x="700" y="265" fill="#fff" font-family="Arial" font-size="14" opacity="0.8" text-anchor="end">3 млрд ₽ рынок</text>
-  <text x="700" y="283" fill="#888" font-family="Arial" font-size="11" opacity="0.6" text-anchor="end">AI-платформы в России</text>
-</svg>
+<figure>
+  <img src="https://shalaxxx-maker.github.io/delovoy-insaid/images/ai_platform_market_2026-07-13.png" width="1200" alt="График: рост рынка AI-платформ в России с 400 млн до 3 млрд рублей и доля МСП">
+  <figcaption>Рынок AI-платформ в России: рост с 400 млн до 3 млрд руб. за 12 месяцев. Прогноз — 6-8 млрд к концу года. Данные: участники рынка, оценки «Делового Инсайда»</figcaption>
+</figure>
 
 <h2>От стартапов до трёх миллиардов</h2>
 
