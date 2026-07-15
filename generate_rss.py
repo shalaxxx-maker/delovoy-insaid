@@ -94,7 +94,7 @@ def extract_meta(html_path):
     title = title_match.group(1).strip() if title_match else "Деловой Инсайд"
 
     # Date from meta div
-    date_match = re.search(r'<div class="meta">\s*(.*?)\s*•', html, re.DOTALL)
+    date_match = re.search(r'<div class="meta">\s*(.*?)\s*[•·]', html, re.DOTALL)
     raw_date = date_match.group(1).strip() if date_match else None
 
     pub_date = None

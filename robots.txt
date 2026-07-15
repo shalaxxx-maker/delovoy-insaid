@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+User-agent: Mail.Ru
+Allow: /rss.xml
+Allow: /articles/
+
+User-agent: Yandex
+Allow: /rss.xml
+Allow: /articles/
+
+Sitemap: https://shalaxxx-maker.github.io/sitemap.xml
