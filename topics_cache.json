@@ -90,7 +90,15 @@
     "нпз ремонт",
     "азс",
     "биржа топливо",
-    "russia_fuel_imports_2026"
+    "russia_fuel_imports_2026",
+    "франчайзинг",
+    "франшизы",
+    "цифровизация",
+    "автоматизация",
+    "digital_divide_franchising_2026",
+    "ai в франчайзинге",
+    "цифровая платформа",
+    "локальный маркетинг"
   ],
   "cooldown_days": 14,
   "articles": [
@@ -220,5 +228,6 @@
   "2026-07-12": "ready_meals_market_2026",
   "2026-07-13": "ai_platforms_3bln_2026",
   "2026-07-14": "ip_vs_ooo_sme_registry_2026",
-  "2026-07-15": "russia_fuel_imports_2026"
+  "2026-07-15": "russia_fuel_imports_2026",
+  "2026-07-16": "digital_divide_franchising_2026"
 }
