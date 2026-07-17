@@ -149,8 +149,23 @@
       "id": "replicate_2026-07-16_hero",
       "date": "2026-07-16",
       "description": "Цифровая платформа управления сетью — Replicate flux-schnell"
+    },
+    {
+      "id": "replicate_2026-07-17_hero",
+      "date": "2026-07-17",
+      "description": "Российская АЗС на закате, топливный кризис — Replicate flux-schnell hero"
+    },
+    {
+      "id": "1552664730-d307ca884978",
+      "date": "2026-07-17",
+      "description": "Деловая встреча — топливный ритейл"
+    },
+    {
+      "id": "1496181133206-80ce9b88a853",
+      "date": "2026-07-17",
+      "description": "Бизнес-аналитика — Unsplash"
     }
   ],
-  "last_updated": "2026-07-16T06:07:23.510617+00:00",
+  "last_updated": "2026-07-17T03:09:00.000000+00:00",
   "cooldown_days": 14
 }
