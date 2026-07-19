@@ -110,7 +110,13 @@
     "госактивы",
     "конфискат",
     "башкирские заводы",
-    "privatization_bashkir_assets_2026"
+    "privatization_bashkir_assets_2026",
+    "агродроны",
+    "беспилотники",
+    "сельское хозяйство",
+    "апк",
+    "точное земледелие",
+    "бас"
   ],
   "cooldown_days": 14,
   "articles": [
@@ -248,5 +254,6 @@
   "2026-07-15": "russia_fuel_imports_2026",
   "2026-07-16": "digital_divide_franchising_2026",
   "2026-07-17": "gas_station_selloff_2026",
-  "2026-07-18": "privatization_bashkir_assets_2026"
+  "2026-07-18": "privatization_bashkir_assets_2026",
+  "2026-07-19": "agrodrones_22bn_2026"
 }
