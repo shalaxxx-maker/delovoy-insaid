@@ -2,11 +2,11 @@ User-agent: *
 Allow: /
 
 User-agent: Mail.Ru
-Allow: /rss.xml
-Allow: /articles/
+Allow: /delovoy-insaid/rss.xml
+Allow: /delovoy-insaid/articles/
 
 User-agent: Yandex
-Allow: /rss.xml
-Allow: /articles/
+Allow: /delovoy-insaid/rss.xml
+Allow: /delovoy-insaid/articles/
 
 Sitemap: https://shalaxxx-maker.github.io/sitemap.xml
