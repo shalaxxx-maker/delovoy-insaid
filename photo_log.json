@@ -1,6 +1,30 @@
 {
   "used_photo_ids": [
     {
+      "id": "1500323413110-71ec8ed382f0",
+      "date": "2026-07-22",
+      "topic": "auto_assembly",
+      "source": "unsplash"
+    },
+    {
+      "id": "1467703834117-04386e3dadd8",
+      "date": "2026-07-22",
+      "topic": "auto_manufacturing",
+      "source": "unsplash"
+    },
+    {
+      "date": "2026-07-21",
+      "id": "1475598322381-f1b499717dda",
+      "topic": "satellite",
+      "source": "unsplash"
+    },
+    {
+      "date": "2026-07-21",
+      "id": "byuro1440_2026-07-21.png",
+      "topic": "satellite",
+      "source": "replicate"
+    },
+    {
       "id": "1513553404607-988bf2703777",
       "date": "2026-07-14",
       "description": "Предпринимательство, малый бизнес — Unsplash"
@@ -176,6 +200,7 @@
       "description": "Деловая встреча, командная работа — Unsplash"
     }
   ],
-  "last_updated": "2026-07-20T06:11:59.652135+00:00",
-  "cooldown_days": 14
+  "last_updated": "2026-07-22T03:00:00+00:00",
+  "cooldown_days": 14,
+  "last_checked": "2026-07-22"
 }
