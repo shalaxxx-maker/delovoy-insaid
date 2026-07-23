@@ -132,10 +132,21 @@
     "шушары",
     "локализация авто",
     "сборка полный цикл",
-    "tenet_a8_auto_production_2026"
+    "tenet_a8_auto_production_2026",
+    "мосбиржа опционы",
+    "озон акции",
+    "премиальные опционы",
+    "деривативы",
+    "биржевые инструменты",
+    "moex_ozon_options_2026"
   ],
   "cooldown_days": 14,
   "articles": [
+    {
+      "date": "2026-07-23",
+      "title": "Мосбиржа запускает премиальные опционы на акции Ozon",
+      "slug": "moex_ozon_options_2026"
+    },
     {
       "date": "2026-07-22",
       "title": "Tenet A8: третий бренд на бывшем заводе Toyota. Что происходит в Шушарах",
@@ -289,5 +300,6 @@
   "2026-07-19": "agrodrones_22bn_2026",
   "2026-07-20": "luxury_brands_return_russia_2026",
   "2026-07-21": "bureau_1440_satellite_launch_2026",
-  "2026-07-22": "tenet_a8_auto_production_2026"
+  "2026-07-22": "tenet_a8_auto_production_2026",
+  "2026-07-23": "moex_ozon_options_2026"
 }

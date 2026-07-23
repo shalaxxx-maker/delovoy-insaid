@@ -1,6 +1,18 @@
 {
   "used_photo_ids": [
     {
+      "id": "1557426272-fc759fdf7a8d",
+      "date": "2026-07-23",
+      "topic": "business_analytics_dashboard",
+      "source": "unsplash"
+    },
+    {
+      "id": "1559526324-593bc073d938",
+      "date": "2026-07-23",
+      "topic": "stock_exchange_trading",
+      "source": "unsplash"
+    },
+    {
       "id": "1500323413110-71ec8ed382f0",
       "date": "2026-07-22",
       "topic": "auto_assembly",
@@ -200,7 +212,7 @@
       "description": "Деловая встреча, командная работа — Unsplash"
     }
   ],
-  "last_updated": "2026-07-22T03:00:00+00:00",
+  "last_updated": "2026-07-23T06:12:01+00:00",
   "cooldown_days": 14,
-  "last_checked": "2026-07-22"
+  "last_checked": "2026-07-23"
 }
