@@ -210,9 +210,21 @@
       "id": "1517245386807-bb43f82c33c4",
       "date": "2026-07-20",
       "description": "Деловая встреча, командная работа — Unsplash"
+    },
+    {
+      "id": "replicate_kamaz_hero_2026-07-24",
+      "date": "2026-07-24",
+      "description": "Производственная линия КамАЗ, сборка грузовых автомобилей — Replicate flux-schnell hero",
+      "source": "replicate"
+    },
+    {
+      "id": "1507963901243-ebfaecd5f2f4",
+      "date": "2026-07-24",
+      "description": "Деловая аналитика — Unsplash gist (повтор, последний раз 2026-07-09, cooldown истёк)",
+      "source": "unsplash"
     }
   ],
-  "last_updated": "2026-07-23T06:12:01+00:00",
+  "last_updated": "2026-07-24T06:10:00+00:00",
   "cooldown_days": 14,
-  "last_checked": "2026-07-23"
+  "last_checked": "2026-07-24"
 }
