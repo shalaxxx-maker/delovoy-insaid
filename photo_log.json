@@ -222,9 +222,15 @@
       "date": "2026-07-24",
       "description": "Деловая аналитика — Unsplash gist (повтор, последний раз 2026-07-09, cooldown истёк)",
       "source": "unsplash"
+    },
+    {
+      "id": "replicate_2026-07-26_hero",
+      "date": "2026-07-26",
+      "description": "Современный коворкинг, кадровый голод во франчайзинге — Replicate flux-schnell hero",
+      "source": "replicate"
     }
   ],
-  "last_updated": "2026-07-24T06:10:00+00:00",
+  "last_updated": "2026-07-26T06:04:39.801974+00:00",
   "cooldown_days": 14,
-  "last_checked": "2026-07-24"
+  "last_checked": "2026-07-26"
 }
