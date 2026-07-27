@@ -152,7 +152,15 @@
     "дефицит персонала",
     "рынок труда",
     "зарплаты",
-    "franchise_staffing_crisis_2026"
+    "franchise_staffing_crisis_2026",
+    "венчурный рынок",
+    "венчур",
+    "стартапы",
+    "ai инвестиции",
+    "венчурные инвестиции",
+    "мегараунды",
+    "physical ai",
+    "ipo m&a"
   ],
   "cooldown_days": 14,
   "articles": [
@@ -305,6 +313,11 @@
       "date": "2026-07-26",
       "title": "Кадровый голод пришёл во франчайзинг: как сети выживают без продавцов и курьеров",
       "slug": "franchise_staffing_crisis_2026"
+    },
+    {
+      "date": "2026-07-27",
+      "title": "$510 млрд за полгода: венчурный рынок ставит рекорд, но не для всех",
+      "slug": "global_vc_510bn_h1_2026"
     }
   ],
   "2026-07-05": "cybersecurity_smb_2026",
@@ -327,5 +340,6 @@
   "2026-07-22": "tenet_a8_auto_production_2026",
   "2026-07-23": "moex_ozon_options_2026",
   "2026-07-24": "kamaz_loss_reduction_h1_2026",
-  "2026-07-26": "franchise_staffing_crisis_2026"
+  "2026-07-26": "franchise_staffing_crisis_2026",
+  "2026-07-27": "global_vc_510bn_h1_2026"
 }
