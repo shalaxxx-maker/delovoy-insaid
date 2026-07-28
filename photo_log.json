@@ -1,6 +1,18 @@
 {
   "used_photo_ids": [
     {
+      "id": "1444944232907-0b9e9ace348c",
+      "date": "2026-07-28",
+      "description": "Финансовая аналитика и рынки — второе изображение",
+      "source": "unsplash"
+    },
+    {
+      "id": "1456753510773-a8bd200a4a26",
+      "date": "2026-07-28",
+      "description": "Аналитика финансового рынка, деловая графика — ставка ЦБ",
+      "source": "unsplash"
+    },
+    {
       "id": "1557426272-fc759fdf7a8d",
       "date": "2026-07-23",
       "topic": "business_analytics_dashboard",
@@ -230,7 +242,7 @@
       "source": "replicate"
     }
   ],
-  "last_updated": "2026-07-26T06:04:39.801974+00:00",
+  "last_updated": "2026-07-28T06:11:12.221783Z",
   "cooldown_days": 14,
-  "last_checked": "2026-07-26"
+  "last_checked": "2026-07-28"
 }
