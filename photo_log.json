@@ -246,9 +246,21 @@
       "date": "2026-07-29",
       "description": "Москва-Сити, финансовый район на закате — Replicate flux-schnell hero",
       "source": "replicate"
+    },
+    {
+      "id": "replicate_magnit_hero_2026-07-30",
+      "date": "2026-07-30",
+      "description": "Современный розничный магазин, супермаркет — Replicate flux-schnell hero",
+      "source": "replicate"
+    },
+    {
+      "id": "1475924156734-496f6cac6ec1",
+      "date": "2026-07-30",
+      "description": "Бизнес-аналитика, e-commerce — Unsplash",
+      "source": "unsplash"
     }
   ],
-  "last_updated": "2026-07-29T06:07:40.683938Z",
+  "last_updated": "2026-07-30T06:08:46.948620Z",
   "cooldown_days": 14,
   "last_checked": "2026-07-29"
 }
