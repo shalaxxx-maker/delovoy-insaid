@@ -258,9 +258,27 @@
       "date": "2026-07-30",
       "description": "Бизнес-аналитика, e-commerce — Unsplash",
       "source": "unsplash"
+    },
+    {
+      "id": "replicate_franchise_cleansing_2026-08-01",
+      "date": "2026-08-01",
+      "description": "Франчайзинг — очищение рынка, бизнес-аналитика — Replicate flux-schnell hero",
+      "source": "replicate"
+    },
+    {
+      "id": "1474433188271-d3f339f41911",
+      "date": "2026-08-01",
+      "description": "Современный бизнес-центр, деловая среда — Unsplash gist",
+      "source": "unsplash"
+    },
+    {
+      "id": "1513553404607-988bf2703777",
+      "date": "2026-08-01",
+      "description": "Деловая аналитика, стратегическое планирование — Unsplash gist",
+      "source": "unsplash"
     }
   ],
-  "last_updated": "2026-07-30T06:08:46.948620Z",
+  "last_updated": "2026-08-01T06:05:20.532833Z",
   "cooldown_days": 14,
   "last_checked": "2026-07-29"
 }

@@ -190,10 +190,20 @@
     "нефть brent 90",
     "сбербанк прибыль",
     "яндекс акции",
-    "инфляция 5.95"
+    "инфляция 5.95",
+    "падение спроса",
+    "очищение рынка",
+    "экспансия",
+    "БРИКС",
+    "franchise_market_cleansing_august_2026"
   ],
   "cooldown_days": 14,
   "articles": [
+    {
+      "date": "1 August 2026",
+      "title": "Франчайзинг — 2026: почему падение спроса на 28% очищает рынок, а не убивает его",
+      "slug": "franchise_market_cleansing_august_2026"
+    },
     {
       "date": "31 July 2026",
       "title": "Рынок акций отскочил на 20% от дна: почему инвесторы снова поверили в российские бумаги",
@@ -385,5 +395,6 @@
   "2026-07-28": "cb_rate_14pct_july_2026",
   "2026-07-29": "fortune500_sberbank_tesla_2026",
   "2026-07-30": "magnit_marketplace_retreat_2026",
-  "2026-07-31": "stock_market_rebound_20pct_july_2026"
+  "2026-07-31": "stock_market_rebound_20pct_july_2026",
+  "2026-08-01": "franchise_market_cleansing_august_2026"
 }
