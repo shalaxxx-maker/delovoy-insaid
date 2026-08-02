@@ -276,9 +276,27 @@
       "date": "2026-08-01",
       "description": "Деловая аналитика, стратегическое планирование — Unsplash gist",
       "source": "unsplash"
+    },
+    {
+      "id": "replicate_2026-08-02_hero",
+      "date": "2026-08-02",
+      "description": "Москва-Сити на закате, финансовая аналитика — Replicate flux-schnell hero",
+      "source": "replicate"
+    },
+    {
+      "id": "1557804506-669a67965ba0",
+      "date": "2026-08-02",
+      "description": "Цифровые финансы, бизнес-аналитика — Unsplash",
+      "source": "unsplash"
+    },
+    {
+      "id": "1460925895917-afdab827c52f",
+      "date": "2026-08-02",
+      "description": "Бизнес-аналитика, финансовые показатели — Unsplash",
+      "source": "unsplash"
     }
   ],
-  "last_updated": "2026-08-01T06:05:20.532833Z",
+  "last_updated": "2026-08-02T06:05:00.000000Z",
   "cooldown_days": 14,
   "last_checked": "2026-07-29"
 }

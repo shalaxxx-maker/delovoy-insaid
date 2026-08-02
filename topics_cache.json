@@ -195,7 +195,12 @@
     "очищение рынка",
     "экспансия",
     "БРИКС",
-    "franchise_market_cleansing_august_2026"
+    "franchise_market_cleansing_august_2026",
+    "опасный август",
+    "бюджетный дефицит",
+    "офз",
+    "дефицит ликвидности",
+    "рынок акций падение"
   ],
   "cooldown_days": 14,
   "articles": [
@@ -368,6 +373,11 @@
       "date": "2026-07-27",
       "title": "$510 млрд за полгода: венчурный рынок ставит рекорд, но не для всех",
       "slug": "global_vc_510bn_h1_2026"
+    },
+    {
+      "date": "02 August 2026",
+      "title": "«Опасный август»: тройное давление на российские рынки и почему 1998 не повторится",
+      "slug": "dangerous_august_triple_pressure_2026"
     }
   ],
   "2026-07-05": "cybersecurity_smb_2026",
@@ -396,5 +406,6 @@
   "2026-07-29": "fortune500_sberbank_tesla_2026",
   "2026-07-30": "magnit_marketplace_retreat_2026",
   "2026-07-31": "stock_market_rebound_20pct_july_2026",
-  "2026-08-01": "franchise_market_cleansing_august_2026"
+  "2026-08-01": "franchise_market_cleansing_august_2026",
+  "2026-08-02": "dangerous_august_triple_pressure_2026"
 }
