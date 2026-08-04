@@ -294,9 +294,21 @@
       "date": "2026-08-02",
       "description": "Бизнес-аналитика, финансовые показатели — Unsplash",
       "source": "unsplash"
+    },
+    {
+      "id": "replicate_hero_2026-08-04",
+      "date": "2026-08-04",
+      "description": "Грузовые перевозки на погранпереходе Китай–Россия — Replicate flux-schnell hero",
+      "source": "replicate"
+    },
+    {
+      "id": "1475598322381-f1b499717dda",
+      "date": "2026-08-04",
+      "description": "Склад электроники, логистика — Unsplash gist",
+      "source": "unsplash"
     }
   ],
-  "last_updated": "2026-08-02T06:05:00.000000Z",
+  "last_updated": "2026-08-04T06:00:00.000000Z",
   "cooldown_days": 14,
   "last_checked": "2026-07-29"
 }

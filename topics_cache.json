@@ -208,7 +208,14 @@
     "инвестиции в золото",
     "банк россии золото",
     "рынок золота",
-    "gold_rush_russians_buy_bullion_2026"
+    "gold_rush_russians_buy_bullion_2026",
+    "китай доставка",
+    "логистика гаджеты",
+    "гаджеты из китая",
+    "сроки доставки выросли",
+    "погранпереходы",
+    "дефицит топлива логистика",
+    "china_gadget_logistics_slowdown_2026"
   ],
   "cooldown_days": 14,
   "articles": [
@@ -391,6 +398,11 @@
       "date": "02 August 2026",
       "title": "«Опасный август»: тройное давление на российские рынки и почему 1998 не повторится",
       "slug": "dangerous_august_triple_pressure_2026"
+    },
+    {
+      "date": "04 August 2026",
+      "title": "Сверка на дорогах: сроки доставки гаджетов из Китая выросли вдвое",
+      "slug": "china_gadget_logistics_slowdown_2026"
     }
   ],
   "2026-07-05": "cybersecurity_smb_2026",
@@ -421,5 +433,6 @@
   "2026-07-31": "stock_market_rebound_20pct_july_2026",
   "2026-08-01": "franchise_market_cleansing_august_2026",
   "2026-08-02": "dangerous_august_triple_pressure_2026",
-  "2026-08-03": "gold_rush_russians_buy_bullion_2026"
+  "2026-08-03": "gold_rush_russians_buy_bullion_2026",
+  "2026-08-04": "china_gadget_logistics_slowdown_2026"
 }
