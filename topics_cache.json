@@ -215,10 +215,20 @@
     "сроки доставки выросли",
     "погранпереходы",
     "дефицит топлива логистика",
-    "china_gadget_logistics_slowdown_2026"
+    "china_gadget_logistics_slowdown_2026",
+    "ресторанный рынок",
+    "общепит",
+    "кафе рестораны",
+    "закрытие заведений",
+    "средний чек"
   ],
   "cooldown_days": 14,
   "articles": [
+    {
+      "date": "05 August 2026",
+      "title": "«Обед похудел, чек потолстел»: почему ресторанный рынок России сжимается третий квартал подряд",
+      "slug": "restaurant_market_cleansing_august_2026"
+    },
     {
       "date": "03 August 2026",
       "title": "«Золотая лихорадка-2026»: почему россияне скупают слитки рекордными темпами, пока ЦБ распродаёт резервы",
@@ -434,5 +444,6 @@
   "2026-08-01": "franchise_market_cleansing_august_2026",
   "2026-08-02": "dangerous_august_triple_pressure_2026",
   "2026-08-03": "gold_rush_russians_buy_bullion_2026",
-  "2026-08-04": "china_gadget_logistics_slowdown_2026"
+  "2026-08-04": "china_gadget_logistics_slowdown_2026",
+  "2026-08-05": "restaurant_market_cleansing_august_2026"
 }
