@@ -225,10 +225,20 @@
     "fashion ритейл",
     "сетевой бизнес",
     "закрытие франшиз",
-    "lime_abandons_franchising_2026"
+    "lime_abandons_franchising_2026",
+    "ipo",
+    "биржа",
+    "размещение",
+    "отмена размещения",
+    "ipo_market_freeze_2026"
   ],
   "cooldown_days": 14,
   "articles": [
+    {
+      "date": "10 August 2026",
+      "title": "Почему российские компании массово отменяют IPO в 2026 году",
+      "slug": "ipo_market_freeze_2026"
+    },
     {
       "date": "07 August 2026",
       "title": "Почему Lime отказался от франчайзинга спустя 13 лет — и при чём здесь ставка 14%",
@@ -456,5 +466,6 @@
   "2026-08-03": "gold_rush_russians_buy_bullion_2026",
   "2026-08-04": "china_gadget_logistics_slowdown_2026",
   "2026-08-05": "restaurant_market_cleansing_august_2026",
-  "2026-08-07": "lime_abandons_franchising_2026"
+  "2026-08-07": "lime_abandons_franchising_2026",
+  "2026-08-10": "ipo_market_freeze_2026"
 }
