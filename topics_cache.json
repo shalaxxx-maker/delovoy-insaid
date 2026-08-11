@@ -230,10 +230,27 @@
     "биржа",
     "размещение",
     "отмена размещения",
-    "ipo_market_freeze_2026"
+    "ipo_market_freeze_2026",
+    "nvidia",
+    "уолл-стрит",
+    "ии инфраструктура",
+    "ai фабрики",
+    "blackrock",
+    "goldman sachs",
+    "500 млрд",
+    "инвестиции ии",
+    "дата-центры",
+    "чипы gpu",
+    "openai",
+    "softbank"
   ],
   "cooldown_days": 14,
   "articles": [
+    {
+      "date": "11 August 2026",
+      "title": "$500 миллиардов на ИИ-фабрики: зачем Nvidia, BlackRock и Goldman Sachs объединяют капиталы",
+      "slug": "nvidia_ai_factories_500bn_89a13fc0ff527267"
+    },
     {
       "date": "10 August 2026",
       "title": "Почему российские компании массово отменяют IPO в 2026 году",
@@ -467,5 +484,6 @@
   "2026-08-04": "china_gadget_logistics_slowdown_2026",
   "2026-08-05": "restaurant_market_cleansing_august_2026",
   "2026-08-07": "lime_abandons_franchising_2026",
-  "2026-08-10": "ipo_market_freeze_2026"
+  "2026-08-10": "ipo_market_freeze_2026",
+  "2026-08-11": "nvidia_ai_factories_500bn_89a13fc0ff527267"
 }
