@@ -242,7 +242,18 @@
     "дата-центры",
     "чипы gpu",
     "openai",
-    "softbank"
+    "softbank",
+    "налоговые преступления",
+    "уклонение от налогов",
+    "фнс контроль",
+    "ндфл прогрессивная шкала",
+    "ндс 22%",
+    "налог на прибыль 25%",
+    "дробление бизнеса",
+    "самозанятые",
+    "серые схемы",
+    "мвд статистика",
+    "tax_crimes_12yr_record_2026"
   ],
   "cooldown_days": 14,
   "articles": [
@@ -450,6 +461,11 @@
       "date": "04 August 2026",
       "title": "Сверка на дорогах: сроки доставки гаджетов из Китая выросли вдвое",
       "slug": "china_gadget_logistics_slowdown_2026"
+    },
+    {
+      "date": "12 August 2026",
+      "title": "Налоговые преступления бьют рекорды: 3 362 дела за полгода и новая реальность для бизнеса",
+      "slug": "tax_crimes_12yr_record_2026"
     }
   ],
   "2026-07-05": "cybersecurity_smb_2026",
@@ -485,5 +501,6 @@
   "2026-08-05": "restaurant_market_cleansing_august_2026",
   "2026-08-07": "lime_abandons_franchising_2026",
   "2026-08-10": "ipo_market_freeze_2026",
-  "2026-08-11": "nvidia_ai_factories_500bn_89a13fc0ff527267"
+  "2026-08-11": "nvidia_ai_factories_500bn_89a13fc0ff527267",
+  "2026-08-12": "tax_crimes_12yr_record_2026"
 }
