@@ -324,9 +324,21 @@
       "date": "2026-08-12",
       "topic": "tax_crimes_body",
       "source": "unsplash"
+    },
+    {
+      "id": "delovoy_cashflow_hero_2026-08-13.png",
+      "date": "2026-08-13",
+      "topic": "hero_cashflow",
+      "source": "replicate"
+    },
+    {
+      "id": "1444944232907-0b9e9ace348c",
+      "date": "2026-08-13",
+      "topic": "body_finance",
+      "source": "unsplash"
     }
   ],
-  "last_updated": "2026-08-12T06:00:00.000000Z",
+  "last_updated": "2026-08-13T06:00:00.000000Z",
   "cooldown_days": 14,
   "last_checked": "2026-07-29"
 }
