@@ -336,9 +336,21 @@
       "date": "2026-08-13",
       "topic": "body_finance",
       "source": "unsplash"
+    },
+    {
+      "id": "delovoy_franchise_hero_2026-08-14.png",
+      "date": "2026-08-14",
+      "topic": "hero_franchise",
+      "source": "replicate"
+    },
+    {
+      "id": "1500323413110-71ec8ed382f0",
+      "date": "2026-08-14",
+      "topic": "body_business_analytics",
+      "source": "unsplash"
     }
   ],
-  "last_updated": "2026-08-13T06:00:00.000000Z",
+  "last_updated": "2026-08-14T06:00:00.000000Z",
   "cooldown_days": 14,
   "last_checked": "2026-07-29"
 }
