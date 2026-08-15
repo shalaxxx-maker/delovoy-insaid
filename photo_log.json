@@ -348,9 +348,21 @@
       "date": "2026-08-14",
       "topic": "body_business_analytics",
       "source": "unsplash"
+    },
+    {
+      "id": "delovoy_books_hero_2026-08-15.png",
+      "date": "2026-08-15",
+      "topic": "hero_business_books",
+      "source": "replicate"
+    },
+    {
+      "id": "1507842217343-583bb7270b66",
+      "date": "2026-08-15",
+      "topic": "body_books_library",
+      "source": "unsplash"
     }
   ],
-  "last_updated": "2026-08-14T06:00:00.000000Z",
+  "last_updated": "2026-08-15T06:00:00.000000Z",
   "cooldown_days": 14,
   "last_checked": "2026-07-29"
 }
