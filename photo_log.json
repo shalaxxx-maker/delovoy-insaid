@@ -360,9 +360,21 @@
       "date": "2026-08-15",
       "topic": "body_books_library",
       "source": "unsplash"
+    },
+    {
+      "id": "delovoy_appstore_hero_2026-08-16.png",
+      "date": "2026-08-16",
+      "topic": "hero_appstore_marketplace",
+      "source": "replicate"
+    },
+    {
+      "id": "1513553404607-988bf2703777",
+      "date": "2026-08-16",
+      "topic": "body_business_strategy",
+      "source": "unsplash"
     }
   ],
-  "last_updated": "2026-08-15T06:00:00.000000Z",
+  "last_updated": "2026-08-16T06:07:03.280424+00:00",
   "cooldown_days": 14,
   "last_checked": "2026-07-29"
 }

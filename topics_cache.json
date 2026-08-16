@@ -270,7 +270,12 @@
     "издательства",
     "подписка",
     "книги по подписке",
-    "business_books_sales_drop_2026"
+    "business_books_sales_drop_2026",
+    "google play",
+    "приложения",
+    "ruStore",
+    "магазин приложений",
+    "мобильная дистрибуция"
   ],
   "cooldown_days": 14,
   "articles": [
@@ -498,6 +503,11 @@
       "date": "15 August 2026",
       "title": "Бизнес-книги в России теряют читателя: −20% за полгода. Рынок не умер — он перестраивается",
       "slug": "business_books_sales_drop_2026"
+    },
+    {
+      "date": "16 August 2026",
+      "title": "Ozon исчез из Google Play. Почему потеря главного магазина приложений больше не катастрофа",
+      "slug": "ozon_google_play_removal_2026"
     }
   ],
   "2026-07-05": "cybersecurity_smb_2026",
@@ -537,5 +547,6 @@
   "2026-08-12": "tax_crimes_12yr_record_2026",
   "2026-08-13": "summer_cash_gap_payment_delays_2026",
   "2026-08-14": "pyaterochka_franchise_250_2026",
-  "2026-08-15": "business_books_sales_drop_2026"
+  "2026-08-15": "business_books_sales_drop_2026",
+  "2026-08-16": "ozon_google_play_removal_2026"
 }
