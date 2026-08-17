@@ -372,9 +372,21 @@
       "date": "2026-08-16",
       "topic": "body_business_strategy",
       "source": "unsplash"
+    },
+    {
+      "id": "delovoy_utilsbor_hero_2026-08-17.png",
+      "date": "2026-08-17",
+      "topic": "hero_utilsbor",
+      "source": "replicate"
+    },
+    {
+      "id": "1475924156734-496f6cac6ec1",
+      "date": "2026-08-17",
+      "topic": "body_business_analytics",
+      "source": "unsplash"
     }
   ],
-  "last_updated": "2026-08-16T06:07:03.280424+00:00",
+  "last_updated": "2026-08-17T06:07:50.235750+00:00",
   "cooldown_days": 14,
   "last_checked": "2026-07-29"
 }
