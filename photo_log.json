@@ -396,9 +396,33 @@
       "date": "2026-08-17",
       "topic": "body_business_analytics",
       "source": "unsplash"
+    },
+    {
+      "id": "delovoy_franchise_hero_2026-08-19.png",
+      "date": "2026-08-19",
+      "topic": "hero",
+      "source": "replicate"
+    },
+    {
+      "id": "1472851294608-062f824d29cc",
+      "date": "2026-08-19",
+      "topic": "body",
+      "source": "unsplash"
+    },
+    {
+      "id": "delovoy_cian_hero_2026-08-20.png",
+      "date": "2026-08-20",
+      "topic": "hero",
+      "source": "replicate"
+    },
+    {
+      "id": "chart_cian_2026-08-20.png",
+      "date": "2026-08-20",
+      "topic": "body",
+      "source": "matplotlib"
     }
   ],
-  "last_updated": "2026-08-17T06:07:50.235750+00:00",
+  "last_updated": "2026-08-20T06:00:00.000000Z",
   "cooldown_days": 14,
   "last_checked": "2026-07-29"
 }

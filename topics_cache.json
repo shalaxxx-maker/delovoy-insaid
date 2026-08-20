@@ -288,7 +288,16 @@
     "безвозмездные поступления",
     "налог на сверхприбыль",
     "налоговая политика",
-    "рспп"
+    "рспп",
+    "продуктовый ритейл",
+    "разноцветные цыплята",
+    "консолидация ритейла",
+    "циан",
+    "недвижимость",
+    "рынок недвижимости",
+    "прибыль циан",
+    "ипотека",
+    "монетизация лидов"
   ],
   "cooldown_days": 14,
   "articles": [
@@ -531,6 +540,16 @@
       "date": "2026-08-18",
       "title": "бизнес перечислил в бюджет 384 млрд добровольно: почему это выгоднее нового налога",
       "slug": "voluntary_business_contributions_384bn_2026"
+    },
+    {
+      "date": "2026-08-19",
+      "title": "Франчайзинг-2026: продуктовые сети сжимаются, а нишевые услуги растут",
+      "slug": "franchising_retail_shrinks_niche_grows_2026"
+    },
+    {
+      "date": "2026-08-20",
+      "title": "Рынок недвижимости падает, а «Циан» удвоил прибыль. В чём фокус площадки",
+      "slug": "cian_doubles_profit_cooling_market_2026"
     }
   ],
   "2026-07-05": "cybersecurity_smb_2026",
@@ -573,5 +592,7 @@
   "2026-08-15": "business_books_sales_drop_2026",
   "2026-08-16": "ozon_google_play_removal_2026",
   "2026-08-17": "utilsbor_budget_revenue_2026",
-  "2026-08-18": "voluntary_business_contributions_384bn_2026"
+  "2026-08-18": "voluntary_business_contributions_384bn_2026",
+  "2026-08-19": "franchising_retail_shrinks_niche_grows_2026",
+  "2026-08-20": "cian_doubles_profit_cooling_market_2026"
 }
